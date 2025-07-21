@@ -14,7 +14,7 @@ import glob
 
 openai.api_key = "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"
 
-MODEL_PATH = "/home/ubuntu/models/mistral-7b-instruct-v0.2.Q3_K_M.gguf"
+MODEL_PATH = "/workspace/models/mistral-7b-instruct-v0.2.Q3_K_M.gguf"
 
 N_THREADS = 16
 N_CTX = 2048
