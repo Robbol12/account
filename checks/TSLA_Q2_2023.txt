@@ -1,0 +1,457 @@
+ood afternoon, everyone, and welcome to Tesla’s Second Quarter 2023 Q&A Webcast. My name is Martin Viecha, VP of Investor Relations. And I’m joined today by Elon Musk, Zachary Kirkhorn, and a number of other executives.
+
+Our Q2 results were announced at about 3:00 pm Central Time in the update deck we published at the same link as this webcast. During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+
+During the question-and-answer portion of today’s call, please limit yourself to one question and one follow-up. Please use the raise hand button to join the question queue. But before we jump into Q&A, Elon has some opening remarks. Elon?
+
+Elon Musk
+
+Thank you, Martin. So, just a Q2 recap. In Q2 we achieved record vehicle production and deliveries, and record revenue of about $25 billion in a single quarter. And Model Y became the bestselling vehicle of any kind globally in Q1, surpassing the likes of Corolla and Golf. So, it was the number one vehicle of any kind, including vehicles that are sold at a far lower price. This is, I think, an incredible achievement by the Tesla team, and just a huge thank you to our customers for their support.
+
+And this came in spite of high interest rates and a lot of macro uncertainty. And nonetheless, we managed to achieve operating margin of about 10%. We continue to target 1.8 million vehicle deliveries this year. Although, we expect that Q3 production will be a little bit down because we’ve got summer shutdowns to -- for a lot of factory upgrades. So, just probably a slight decrease in production in Q3 for sort of global factory upgrades.
+
+In the long-term, autonomy we think is going to just drive volume through the ceiling next level. And our sort of future robotaxi products -- dedicated robotaxi products we think have like quasi-infinite demand. The way we’re going to manufacture robotaxi is, is also itself a revolution. So, it’s revolutionary design made in a revolutionary way. It’ll be by far the highest units per hour of any vehicle production ever. So, very excited about that.
+
+With respect to Autopilot and Dojo, in order to build autonomy, we also need to train our neural net with data from millions of vehicles. The more -- I mean, this has been proven over and over again. The more training data you have, the better the results. And, I mean, there are times where we see basically -- in a neural net, basically it’s sort of at 1 million training examples, it barely works; at 2 million, it slightly works; at 3 million, it’s like wow, okay, we’re seeing something, but then you get like 10 million training examples, it’s like -- it becomes incredible. So, there’s just no substitute for a massive amount of data. And obviously, Tesla has more vehicles on the road that are collecting this data than all of the companies combined by, I think, maybe even an order of magnitude. So, I think we might have 90% of all -- or a very big number. So, the success in AI endeavors is a function of talent, sort of unique data and computing resources. And we have outstanding capabilities in all three arenas.
+
+And I really just don’t know how anyone could do what we’re doing, even if they had our software and had our computer, if they did not have the training data. So, speaking of which, our Dojo training computer is designed to significantly reduce the cost of neural net training. It is designed to -- it’s somewhat optimized for the kind of training that we need, which is a video training. So, we just see that the need for neural net training -- again, talking -- speaking of quasi-infinite things, is just enormous. So, I think having -- we expect to use both, NVIDIA and Dojo, to be clear. But there’s -- we just see demand for really vast training resources.
+
+And we think we may reach in-house neural net training capability of a 100 exaflops by the end of next year. So, to date, over 300 million miles have been driven using FSD beta. That 300 million mile number is going to seem small very quickly. It’ll soon be billions of miles, then tens of billions of miles. And FSD will go from being as good as a human to then being vastly better than a human. We see a clear path to full self-driving being 10 times safer than the average human driver, so.
+
+And between Autopilot, Dojo computer, our inference hardware in the car, which we call sort of Hardware 3, 4, but it’s really dedicated. It’s a high efficiency inference computer that’s in the car and our Optimus robot, Tesla’s clearly at the cutting edge of AI development.
+
+With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin. I’m actually here in Austin at the Gigafactory. This is the first truck that we’re aware of that will have four doors over a six foot bed and will fit into a 20-foot garage. So, it’s sort of biggest on the outside, but it’s even bigger on the inside. So it’s -- I think that’s a -- one of the elements of good design is it should feel bigger on the inside than it looks on the outside.
+
+And this is no small car, but we really cared about the exterior dimensions of the Cybertruck down to the last millimeter. So just -- we try to get right in the middle of the Goldilocks zone, not too big, not too small and then really maximize the utility of the volume. And we can’t wait to start delivering it later this year.
+
+Some other highlights. Our global Supercharging network now stands at over 50,000 -- roughly 50,000 connectors and over 5,000 locations. As I think a lot of people are aware, the Tesla Charging Standard, which we made open source and it’s now called the North American Charging Standard. We’re deeply honored that Ford, GM, Mercedes and many other OEMs have signed up to use our connector and gain access to our charging network. We strongly believe in helping other car companies to accelerate the EV revolution and just trying to do the right thing in general. So, that’s the goal there.
+
+Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the North American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our full self-driving software and hardware to other car companies. And we are already in discussions with -- early discussions with major OEM about using Tesla FSD. So, we’re not trying to keep this to ourselves. We’re more than happy to license it to others. And lastly, our new lithium refinery and cathode facility are progressing well.
+
+In conclusion, we continue to focus on making as many cars as we can, while maintaining healthy financials. Our artificial intelligence development is obviously entering a new era and we’re incredibly excited about what’s to come. Our other businesses such as Megapack, Supercharging service and whatnot, all started to become a meaningful contributor to overall profitability this quarter. And then lastly, I’d just like to profusely thank all of our employees who are making a lot of extra effort during uncertain times. Thank you very much for your hard work and the impact you’re making.
+
+Martin Viecha
+
+Thank you very much, Elon. And I think Zach has some opening remarks as well.
+
+Zachary Kirkhorn
+
+Yes. Thanks Martin. As Elon mentioned, Q2 was another record quarter of production and deliveries, as well as records in profit for our energy and services and other businesses. Congratulations again to the Tesla team on the continued progress.
+
+As we navigate through a period of economic uncertainty, rising interest rates, volatility in consumer confidence and regulatory change, I want to comment on our financial approach. First, the single most important priority is to ensure we are continuing to invest heavily in the core technologies that will drive the long-term value of the business. This includes increasing spending on AI related technologies such as full self-driving, Optimus and Dojo, as well as new products such as Cybertruck, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend. This also includes continuing our investments in capacity expansion, not only in our vehicle factories, but also our Supercharging network, service, internal applications, and battery processes, as we continue with meaningful capital expenditures to lay this foundation for the future.
+
+Second, we continue to work towards our goals of maximizing volumes on both, our vehicle and energy business, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments. This requires a strong focus on per unit COGS reductions in each of our key businesses, as well as working capital improvements on raw materials, work in process inventory and customer AR, all of which progressed appropriately in Q2.
+
+If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter. We recognized – we realized per unit cost improvements in nearly every category, including material cost and commodities, manufacturing costs and logistics, while also continuing to rapidly increase the build rate in our Austin and Berlin factories. For our energy business, we improved margins and gross profit driven by cost reductions and deal economics, particularly with Megapack. As a reminder, storage volumes are typically volatile sequentially based on the types of projects and their specific revenue recognition milestones.
+
+As we look forward to the rest of the year, I want to reiterate Elon’s comments on Q3 volumes driven by planned downtimes for factory upgrades. These upgrades will also carry some amount of factory idle cost. However, we are working to minimize as much as possible. It’s also important to keep in mind the uncertainty in the macro environment, which can impact our execution positively or negatively in the near term. Regardless, we continue to remain dynamic with a focus on fundamental efficiency and a long-term outlook. Congratulations again to everybody on a great quarter.
+
+Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much, Zach. And let’s go to investor questions. The first question on licensing FSD we’ve already answered. So, let’s go to the second one. The second question is, what is the status of 4680 cells? How far are you from the specs you laid out on Battery Day? When do you expect to achieve what you laid out on Battery Day?
+
+Unidentified Company Representative
+
+Yes. First, I’ll just start with a little bit of a production update. So, in Texas, 4680 cell production increased 80% Q2 over Q1, and the team surpassed 10 million production cells produced here in Texas. So, congrats to the team for that. Their focus on yield reduced our scrap bill by 40% quarter-over-quarter, and that resulted in a 25% reduction in cell COGS.
+
+Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production. That was accomplished through process and mechanical design optimization. As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+
+Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis. We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+
+Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+
+Martin Viecha
+
+Thank you very much. The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model? Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+
+Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update. Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023. As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+
+The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024. We have several exciting large projects in construction or nearing completion, including the KES project in Hawaii, the Riverina project in Australia, several products in California and one here at Gigafactory, Texas that we’ll tour today, actually. We want to thank our customers, utilities and grid operators for trusting us with these projects.
+
+On the Autobidder question, we continue to grow Autobidder contracts in wholesale markets like Australia, Texas, UK and California with over 6 gigawatt hours under Tesla’s dispatch next year. In the UK, our projects performed best in the industry in Q2. Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring. It’s important to remember that these large projects – these large capital projects have lifetimes of 20 years of recurring revenues on an annualized basis relative to upfront CapEx are small.
+
+On the residential side, we have some fun things happening. We recently surpassed 0.5 million Powerwalls installed. Just this week, we are launching Charge on Solar, which allows Tesla Powerwall and vehicle customers to charge their vehicles using their excess solar and drive only on the sunshine that hits their roof. Yesterday, we began paying customers in Texas for participating in our virtual power plant to provide grid support to ERCOT. We expect these credits to lower our median customer’s annual bill by a third and to increase these credits over time as ERCOT expands market access. And today, we are expanding Tesla electric enrollment to new Model 3 owners in Texas, followed by all Texas vehicle customers over the rest of the quarter.
+
+Unfortunately and somewhat similar to Tesla Insurance, bringing Tesla electric and BPP capabilities to our customers requires working through a fractured regulatory environment on a jurisdiction-by-jurisdiction basis. In the long run, the value of residential energy software and hardware will be driven by the level of market access that utilities, market operators and regulators permit.
+
+For Powerwall that’s eligible to provide the full stack of energy services, like peaker capacity and system buffering, such as in Australia, we can more than double the value of ownership relative to a typical system today.
+
+Martin Viecha
+
+Thank you very much. The next question is, could you quantify the benefits to COGS per unit from the IRA battery manufacturing incentives; and secondly, battery raw material declines year-to-date?
+
+Zachary Kirkhorn
+
+All right. I can take that. On the first part of the question for IRA manufacturing incentives, we provided previous guidance that we expect these to be for the course of this year in the range of $150 million to $250 million per quarter. We are staying within that boundary as we guided previously, so that was the case in Q2 as well. I will note, and I think we’ve mentioned this before, that this includes a 50-50 sharing of credits for qualified cells from our long-term battery partner, Panasonic.
+
+On the commodity side, we are continuing to see improvements there, as we’ve discussed previously. Lithium is the most notable improvement so far. I think I commented on this on the last call, because typically, we see this coming about a quarter before it actually is realized in our financials. And also just as a reminder, we’re not fully exposed to the price of lithium. Our supply chain team has done a terrific job in partnership with another – a bunch of other companies to put in place some long-term agreements here, but we do have some exposure that moves up and down.
+
+We’re also seeing benefits in aluminum and steel, which I think is great. Not as large as the lithium impacts, but they contribute nonetheless. So, if we add up the total impact of this in Q2 relative to prior quarter, it’s about the same size and magnitude as the IRA benefits that we also received.
+
+Just to put this in context, as you look at COGS per unit sequentially from Q1 to Q2, I think there’s two things to keep in mind there. The first is that our SX mix for deliveries increased quite a bit from Q1 to Q2. So, as you think about fundamental cost reductions, it’s important to adjust for that. And then secondly, as we continue to work on reducing our Austin and Berlin cost, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above Model Y production costs elsewhere. And in the quarter, our mix of Austin and Berlin related builds increased. And so, that’s something to consider as you model out the impact on – from Q1 to Q2 in terms of COGS per unit.
+
+I do want to ask Karn if there’s anything else on the commodity side or just more generally, you want to add here?
+
+Karn Budhiraj
+
+Yes. As you mentioned, Zach, we’ve naturally been a little bit hedged from the lithium position because of the long-term contracts we have in place. But we have seen reduction in pricing across the board for all commodities that specifically go into batteries such as nickel, cobalt and graphite. And the reductions in pricing translate into thousands of dollars when you look at it from a per-vehicle impact. We’re taking advantage of the historically low commodity pricing and certainly [Indiscernible] to kind of extend some of those fixed price contracts through the end of the decade. So it’s a playbook that we’ll continue to kind of go back to as we look to the future.
+
+Martin Viecha
+
+Thank you. The next question on FSD. Have you considered allowing FSD transferability as a lever to allow existing customers to upgrade to a new Tesla instead of being locked into an existing car due to the price of FSD?
+
+Elon Musk
+
+Yes. This is a question we get asked a lot. So, we’re excited to announce that for Q3, we will be allowing transfer of FSD. This is a onetime amnesty. So, it needs to be -- you need to take advantage of it in Q3, but -- or at least place the order in Q3 within reasonable delivery time frames. So yes, I hope this makes people happy. This is a onetime thing.
+
+Martin Viecha
+
+Right. The next question, when will we give more information about the Cybertruck orders, estimated delivery schedules, pricing and specifications?
+
+Elon Musk
+
+Demand is so far off the hook, you can’t even see the hook. So, that’s really not an issue. I do want to emphasize that the Cybertruck has a lot of new technology in it, like a lot. It doesn’t look like -- it doesn’t look like any other vehicle because it is not like any other vehicle. So -- and the production ramp will move as fast as the slowest and least likely elements of the entire supply chain and internal production. So, I wouldn’t expect -- I hope it’s smooth. We’re certainly better at production ramps that -- we’ve got a lot of experience with the production ramps. But first order approximation, there’s like 10,000 unique parts and processes in the Cybertruck. And if any one of -- it will go as fast as the least lucky, least well-executed element of the 10,000. So, it’s always difficult to predict the ramp initially, but I think we’ll be making them in high volume next year, and we will be delivering the car this year.
+
+Martin Viecha
+
+Thank you. The next question is critics of Gigacasting contended that process makes vehicles harder and more costly to repair, essentially pushing costs on to the customer. Can you share some details about the initial repair experience with Gigacast vehicles?
+
+Elon Musk
+
+That must be why everyone’s copying us.
+
+Lars Moravy
+
+Thanks, Elon. This is Lars. I mean, that’s like simply not true. There’s a misconception that traditional bodies are easy to repair, but they are made up of multiple materials and multiple joining methods. Spot welds and rivets have to be drilled out. Panels and structural adhesives have to be chiseled out. Dried adhesive has to be removed, stains, cut, blah, blah, blah.
+
+Elon Musk
+
+It’s a crazy patch of a quilt.
+
+Lars Moravy
+
+Yes. And so putting that back together means time and money. Using an example of replacing a rear cast rail in the Model Y, to do that versus like what we replaced it with from Model 3, it’s 10 times cheaper and 3 times faster to do it with the cast rail. Design team works with our collision repair team since we’re a closed loop on this with insurance, and we design specific parts that make it easier and faster to repair. And we have an incentive to do that because we have our own insurance and our own body shops. We expect that we’ll continue to do this, and collision repair will continue to become cheaper and faster over time. And we already make this available to all body shops or our Tesla-approved body shop training.
+
+Elon Musk
+
+Yes, closing loop on collision repair and factoring that into design is a big deal.
+
+Lars Moravy
+
+Crucial. I don’t think anyone else can do it with that ecosystem that we have, so.
+
+Elon Musk
+
+Yes. And we are actually able to change the details of the casting with inserts, and we actually do that all the time, so -- because the inserts actually wear out and need to be replaced anyway. So we can actually make design changes to the inserts and tweak the castings. But the cast --basically cast rear body or front body is lighter, cheaper, better noise vibration, harshness, much easier to manufacture. It’s better in every way. And that’s why so many other car companies are copying us.
+
+Lars Moravy
+
+Probably.
+
+Elon Musk
+
+Well, they certainly put out a lot of press releases about it. I think it’s basically going to be how all cars are made in the future.
+
+Martin Viecha
+
+Thank you. Next question, how many Optimus bots have been made? And when will they be able to start performing useful tasks?
+
+Elon Musk
+
+10 million. Yes. I think we’re around 5 or 6 bots. I think -- there’s -- we were -- look, 10, I guess. Depends on what -- how many are working and what phase. But it’s sort of -- yes, there’s more every month. There’s a lot of interesting things about the Optimus bot. We found that there are actually no suppliers that can produce the actuators. There are no off-the-shelf actuators that work well for humanoid robot at any price.
+
+Unidentified Company Representative
+
+Certainly not compelling.
+
+Elon Musk
+
+Yes. There’s not a humanoid robot that can do something -- the things that human could do. So, we’ve actually had to design our own actuators that integrate the motor or the power electronics, the controller, the sensors. And really, every one of them is custom designed. And then, of course, we’ll be using the same inference hardware as the car. But we are, in designing these actuators, designing them for volume production. So, they’re not just lighter, tighter and more capable than any other actuators wherever that exists in the world, but it’s also actually manufacturable. So, we should be able to make them in volume.
+
+The first Optimus that is -- that will have all of the Tesla designed actuators, sort of production candidate actuators integrated and walking should be around November-ish. And then, we’ll start ramping up after that. In terms of when we’ll be able to do some useful things, like we’ll first be trying this out in our own factories and just proving out its utility, but I think we’ll be able to have it do something useful in our factories sometime next year. I would be -- yes, I’m pretty confident of that. So yes, it’s going well.
+
+I should say another cool thing about Optimus is that there’s -- just in the U.S. alone, there are 2 million amputees. And I was just talking to the Neuralink team. And by combining a Neuralink implant and a robotic arm or leg for someone that has had their arm or leg or arms and legs amputated, we believe we can give basically a cyber body that is incredibly capable, $6 million man in real life, before don’t want to cost $6 million. $60,000 man. This sounds impressive, but it will actually -- so that actually could be a really -- I think, would be incredible to potentially help people around the world and give them a robot arm or like that is as good, maybe long term better than a biological one.
+
+Martin Viecha
+
+Thank you. The next question is, how has the order intake trended relatively to production levels during Q2? And how has it trended in the quarter-to-date period? Conceptually, how does Tesla decide when is it appropriate to reduce prices or at other sales incentives to increase demand?
+
+Elon Musk
+
+Yes. I guess, demand has roughly tracked production. So -- which is what we aim for is -- we look at -- it’s something that we have that really -- I think no other carmaker has -- is that we have real-time demand and real-time production, like so seven days a week. I get an e-mail -- order generated e-mail, chose output from all factories and orders globally. So it’s like a real-time finger on the pulse of earth basically. And we adjust course according to what the mood of the public is.
+
+Buying a new car is a big decision for vast majority of people. So, any time there’s economic uncertainty, people generally pause on new car buying at least to see what happens. And then obviously, another challenge is the interest rate environment. As interest rates rise, the affordability of anything bought with debt decreases, so effectively increasing the price of the car.
+
+So when interest rates rise dramatically, we actually have to reduce the price of the car because the interest payments increase the price of the car. And this is -- at least up until recently, it was, I believe, the sharpest interest rate rise in history. So, we had to do something about that. If somebody’s got a crystal ball for the global economy, I really appreciate it, if I could borrow that crystal ball.
+
+Unidentified Company Representative
+
+DM us.
+
+Elon Musk
+
+Yes, exactly, DM me. It should be not on Twitter. So, I mean, one day, it seems like the world economy is falling apart and the next day, everything is fine. I don’t know what’s going on. It’d be totally fine. I wish I did. So, I mean that’s why I say like I was on Twitter, I posted like just really advising because I care a lot about the sort of small shareholders, especially ones that have stuck with us through thick and thin. I love you, guys. And so, we can’t control these macro shocks or the thematic depressive nature of the stock market. So, that’s why I recommend against margin loans in times that are turbulent. If times are not that turbulent, actually margin loan can be a smart move within reason. But we’re in, I would call it, turbulent times. Like I have very high confidence in the long-term value of Tesla. Like I see it -- I really see a path to a 10x -- call it a 5x increase in the value of the company, maybe a 10x. And -- but where things go along the way, the trials and tribulations and the mood of the markets, one cannot predict. And so, the old adage of buy and hold is right. For an investment advice, I’d say like identifying a company as products you love. See if they -- does it seem like they’ll continue to make good products or great products? Buy that stock and hold it. That’s it. You’ll win.
+
+The reason companies exist is to make goods and services, ideally great goods and services. They don’t exist for any other reason. They shouldn’t. So, that’s why you should buy stock of a company that makes good products and has a great future pipeline. It’s common sense, actually.
+
+And then generally, if you see -- if you provide your confidence about what that company’s products or services are, when the market panics, buy; and when the market is overly exuberant, you can sell. I’m not recommending you to Tesla, but yes, buy low, sell high.
+
+Warren Buffett actually, I think has a saying -- I’m paraphrasing him, but a publicly traded company is like imagine living in your house and some crazy manic-depressive guy comes and stands outside your house and yells property prices at you, and it’s a different price every day. But the house is still the same house. So, this is a stock market. Credit that to Warren Buffett.
+
+Martin Viecha
+
+Thank you. Let’s go to the next question. With the emphasis of price cuts to drive volume growth eating into automotive gross margin, can investors expect to see automotive gross margin stabilize or even rise due to efficiencies outpacing the cuts? And if so, when?
+
+Elon Musk
+
+Where’s that crystal ball, again? If I may, look, the short-term variances in gross margin and profitability really are minor relative to the long-term picture. Autonomy will make all of these numbers look silly. I’d recommend looking at ARK Invest. I think their analysis is very good. It’s the best. And generally, Fintwit or the finance, Smart Finance people on Twitter, follow their accounts. They’re great. So that’s in my opinion where you’ll get the best info. So, I strongly believe Tesla is a big long-term investment. And don’t sweat when things go up and down. In fact, if the market panics, buy; if the market is a little too exuberant, sell at the time. But just generally, like -- I feel -- I’m confident we’ll deliver over long term, but can’t control short term. So -- and the autonomy is really where it’s at. I mean, Zachary?
+
+Zachary Kirkhorn
+
+I fully agree with you. I mean, I think the only thing in the short term that matters is what I said in my opening remarks, which is are we generating enough money to continue to invest. And the portfolio of products and technologies that the technical teams are investing in right now, this is intense. It’s intense in terms of investment; it’s intense in terms of potential.
+
+Elon Musk
+
+Frankly, I think it’s ridiculous that we have positive free cash flow in a capital-intensive business, while investing massive amounts of money in new technology. That is super hard.
+
+Unidentified Company Representative
+
+And vertical integration. It’s not even just like new products, but also...
+
+Elon Musk
+
+Yes. We actually make our share...
+
+Zachary Kirkhorn
+
+And so, at least from my perspective, what matters is continuing to generate the cash to invest. That means continuing to be hyper focused on near-term cost reduction. Is everything we do in near-term cost reduction provides capital to reinvest? Hyper-focused on working capital management, which we’ve made quite a bit of progress there on the raw materials and with -- a set of that we’ve been very focused on accounts receivables as well to ensure that we can continue to reinvest the cash. This is what we’re focused on. And so, there’s a set of this that we control. We have a pipeline of cost reductions. We are getting tailwinds in the commodity space right now, as Karn mentioned, that’s helpful.
+
+Variability around average selling prices goes back to Elon’s point. We don’t control interest rates. We don’t control macro consumer sentiment. But we have an obligation to be responsive to that to ensure that we’re matching supply and demand and keeping things balanced. And so, this is how we’re managing the next handful of quarters. Soon enough, these quarters will be behind us. They won’t be part of the present value of future cash flows of the business. And so, we want to make sure we keep that view and make sure that the long term business is exactly the way that we want it to be.
+
+Martin Viecha
+
+All right. Thank you very much. Now let’s go to analyst questions. The first question comes from Dan Levy from Barclays.
+
+Dan Levy
+
+I wanted to start first with a question about your efforts in AI and Dojo. It’s pretty clear it sounds like you’re accelerating your focus. Can you maybe provide us with a sense of what the process is of refining a product? Is it more machines? And maybe you could give us a sense of when the payout starts to -- when you start to see the payout and what the resource outlay is, what should we expect on the OpEx front as a result of this?
+
+Elon Musk
+
+Sorry. Are you saying how much are we going to spend on Dojo or…?
+
+Dan Levy
+
+Yes.
+
+Elon Musk
+
+R&D on Dojo?
+
+Dan Levy
+
+Yes.
+
+Elon Musk
+
+Well, we’re not going to be open loop on our Dojo expenditures. So -- but I mean, I think we will be spending something north of $1 billion over the next year on -- through the next year, it’s well over $1 billion in Dojo. And yes, so I mean we’ve got a truly staggering amount of video data to do training on. And this is another thing -- in order to copy us, you also need to spend billions of dollars on training compute. I mean, it’s like -- and it’s also hard to -- you need the data and you need the training computer. It’s like -- think, well, things needed to actually achieve this at scale toward generalized solution for autonomy, it’s -- this is one of the highest problems ever.
+
+You see a lot of AI companies doing LLMs and whatnot. I would say if they’re so great, why can’t they make a self-driving car? Because it’s harder. That’s why. So -- but I do think -- I think there’s some great AI companies out there. But just fundamentally, the staggering amount of data we’ve got to process, it’s got to be processed somehow. And custom silicon is the best way to do that.
+
+So that’s what Dojo is designed to do is optimize for video training. It’s not optimized for LLMs. It’s optimized for video training. With video training, you have a much higher ratio of compute-to-memory bandwidth, so -- whereas LLMs tends to be memory bandwidth choked. So that’s it. I mean -- but like I said, we’re also -- we have some -- we’re using a lot of NVIDIA hardware. We’ll continue to -- we’ll actually take NVIDIA hardware as fast as NVIDIA will deliver it to us. Tremendous respect for Jensen and NVIDIA. They’ve done an incredible job.
+
+And frankly, I don’t know if they could deliver us enough GPUs, we might not need Dojo, but they can’t. So they’ve got so many customers. They’ve been kind enough to nonetheless, prioritize some of our GPU orders. But yes, the sheer magnitude of video training -- because like I said, we’re not trying to just get as good as human. We want to get to 10 times better than human, maybe 100 times better than human.
+
+Right now, I believe there’s something on the order of 1 million automotive deaths per year. And then if you say permanent serious injuries, I think it’s probably closer to 10 million per year. And -- so it matters if you’re twice as good as human, 10 times -- like 10 times better than human would still mean 100,000 deaths and 1 million severe permanent injuries. So, it’s like, okay, we would rather be 100 times better. So there’s really -- it’s a march of 9s, and we want to achieve as perfect safety as possible. And that’s truly mind-boggling amounts of video and computer needed for that. And then, I do think there’s other applications for Dojo, but we just desperately need it for video training.
+
+Zachary Kirkhorn
+
+Just to add to what Elon mentioned. So, the numbers that he mentioned are between R&D spend and capital spend. And this is moving quickly. And so, we provide a three-year outlook on our capital expense. We are considering these expenses in that outlook. And as that moves up and down, we’ll continue to update our guidance in the Q.
+
+Elon Musk
+
+Yes. I want to say, the fundamental rate limiter on the progress of full self-driving is training. That’s -- if we had more training compute, we would get it done faster. So that’s it.
+
+Zachary Kirkhorn
+
+And it’s just difficult to predict how quickly we can execute on it.
+
+Dan Levy
+
+Great. Thank you. Just as a follow-up, I recognize there’s incredible macro uncertainty right now, but you’re sticking with your near term, your volume target of 50% CAGR. As we just think about sort of in the year ahead, Cybertruck is going to be some contribution. There’s going to be some help from further EV penetration growth. But to what extent are you willing to sacrifice on pricing to keep that 50% volume CAGR intact, or are you thinking differently about margins versus your prior commentary of willing to sacrifice on margins to get more share?
+
+Elon Musk
+
+It’s not about getting more share. It’s just that you can think of every car that we sell or produce that has full autonomy capability as actually something that in the future may be worth as much as 5 times what it is today. Because average -- vehicle is doing like maybe 10 hours of driving a week. If sort of -- if this says 1.5 hours a day on average, that’s 10 hours a week-ish. If you’ve got on autonomous -- if the vehicle is able to operate autonomously and use either dedicated autonomous or partially autonomous like Airbnb, like maybe sometimes you allow your car to be used by others. Sometimes you want to use it exclusively just like Airbnb -- doing Airbnb with a room in your house. The value is just tremendous.
+
+So, I think it’s sort of, it would be -- I think it -- it does make sense to sacrifice margins in favor of making more vehicles because we think in the not too distant future, they will have a dramatic valuation increase. I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+
+Martin Viecha
+
+Thank you. Let’s go to the next analyst. The question comes from Emmanuel Rosner from Deutsche Bank.
+
+Emmanuel Rosner
+
+Two questions from me as well. First, following up on the autonomy. So before you start launching these dedicated robotaxi vehicles, on existing vehicles, you’re improving FSD incrementally. What is your latest targeted timing to essentially release a non-beta version or an eyes-off version that would trigger much higher take rates? And would Tesla benefit from lowering the price of FSD?
+
+Elon Musk
+
+Well, obviously, as people have sort of made fun of me and perhaps quite fairly have made fun of me, my predictions about achieving full self-driving have been optimistic in the past. The reason I’ve been optimistic is -- it tends to look like is the -- we’ll make rapid progress with a new version of FSD, but then it will curve over logarithmically. So first, logarithmic curve looks like just sort of fairly straight upward line, diagonally up. And so, if you extrapolate that, then you have a great thing. But then because it’s actually logarithmic, it curves over, and then there have been a series of stacked logarithmic curves.
+
+Now, I’m the boy who cried FSD, but I think we’ll be better than human by the end of this year. That’s not to say we’re approved by regulators. And I’m saying that would be in the U.S. because we’ve got to focus on one market first. But I think we’ll be better than human by the end of this year. I’ve been wrong in the past, I may be wrong this time.
+
+And the price of FSD -- so the great thing is the price of FSD is actually very low, it’s not high. When you go back to what I said earlier, the value of the car increases dramatically if it is actually autonomous. $15,000 is actually a low price, not a high price. And we will offer -- and we -- I think we do sort of offer FSD as a sort of monthly subscription, although most people don’t know that. So, I’d recommend like maybe trying it out as a monthly subscription so you don’t have to go with the $15,000 thing. But I think yes, yes -- obviously, if the car is worth several times its original price, $15,000 is actually a low price for FSD.
+
+Martin Viecha
+
+And the next question comes from William Stein from Truist.
+
+William Stein
+
+I’d like to ask about -- to stick on this AI topic. We’ve read with great interest the developments in Dojo today, and you’ve spoken about FSD, but you’ve also -- Elon, you started this x.ai company. And for investors that think that there might be quite a bit of value in the AI features and products of Tesla, it might be concerning to see you pursuing another endeavor where AI is the focus. So can you talk about how x.ai might overlap, might perhaps compete with Tesla or in other ways, perhaps it enhances the value of what Tesla does?
+
+Elon Musk
+
+Yes. I think it’ll actually enhance the value of Tesla. There were just some of the world’s best AI engineers and scientists that were willing to join a startup, but they were not willing to join a large sort of relatively established company like Tesla. So, it was like -- that’s actually how it got started. I was interviewing a few people and they’re like, no, we want to do a startup. I was like, and that’s well -- I couldn’t convince them to join Tesla. So -- so it’s like, okay, well, better to start up that I run than go work somewhere else. That’s kind of the genesis of xAI.
+
+And xAI is focused on sort of AGI. Yes. So it’s -- like I said, I think there will be some value that xAI brings to Tesla. Also some of the best -- for the very best people in the world, they really just want to work on interesting problem. So if you take, say, a material science group, really what convinced Charlie Colman to leave Apple, where he was very happy and well compensated, and both at -- in both -- where we think is the best material science group in the world, was that he got to work at both Tesla and SpaceX. He wasn’t willing to leave Apple if it was just Tesla, but he’s willing to do it if it is Tesla and SpaceX. So sometimes you get the best talent in the world if that’s the kind of thing you need to do. And that actually has been very beneficial to Tesla.
+
+William Stein
+
+If I could squeeze one more mundane question in. I wonder if you think you can hit the 1.8 million unit number with current pricing, or do you anticipate needing to continue to lower prices because it seems like they’ve stabilized. The trends have stabilized in the last maybe 1.5 months. Should we expect sort of continued decreases or more stabilization for the rest of the year?
+
+Elon Musk
+
+Sure. We have sort of -- we started the referral program, which I think will be quite effective. As Zach was saying earlier, we don’t control the macroeconomic conditions. So, if interest rates continue to rise, that reduces the affordability of cars. And for a lot of people, they’re really -- they’re just really breaking even every month. In fact, if you look at the rise in credit card debt, they are, in fact, not breaking even every month. Credit card debt is looking scary. So, we just don’t control the market conditions. If market condition is stable, I think prices will be stable. If they’re not stable, then we would have lower prices. Yes.
+
+Martin Viecha
+
+Thank you. Let’s go to Colin Rusch from Oppenheimer.
+
+Colin Rusch
+
+As you’re building out Dojo and implementing what truly is going to be a highly complex set of software, can you speak to the maturity of the operating system and how much outsourced software you’re expecting to use in that system?
+
+Elon Musk
+
+This is a custom software stack, so. But it is designed such that you can run at a high level, PyTorch and JAX. But then we have to customize it to actually run on a custom silicon. So, the software stack is a combination of open source software and then Tesla software all the way to the bare silicon, which is the case for the inference computer in the car.
+
+Colin Rusch
+
+Okay. Thanks so much. That’s super helpful. And then can you speak to how you’re managing some of the geopolitical risks relative to your capacity expansion? Obviously, as you guys continue to grow at this rate, you’re going to be putting some folks out of business. And there’s going to be some impacts around regional economy. So, I just want to understand how you’re thinking about that in terms of some of your CapEx plans and how you’re managing some of those relationships with different countries and regions.
+
+Elon Musk
+
+Well, this is a period of unusual geopolitical risk. So, I think we’re -- the best we can do is have factories in many parts of the world such that if things get difficult in one part of the world, we can still keep things going in the rest of the world.
+
+Martin Viecha
+
+Thank you. The next question comes from Mark Delaney from Goldman Sachs.
+
+Mark Delaney
+
+Tesla has been making progress reducing costs and did so again last quarter. Can you give an update on when you think automotive COGS per vehicle could be under the historical $36,000 per vehicle level? And what are the key puts and takes to get there?
+
+Zachary Kirkhorn
+
+This is -- I think I was asked this in the past. This is very difficult to forecast. There’s a series of costs that we manage, the series of costs which we don’t control. And so particularly on the commodity side, where labor costs go, et cetera, it’s just hard to say.
+
+Elon Musk
+
+Yes. And we saw very inflationary -- like strong inflationary pressures for a while last year. And now -- which obviously makes it very difficult to reduce COGS. And now we’re seeing what seems to be deflationary pressures, certainly deflationary -- deflation isn’t pressure. But we’re seeing commodity prices dropping as was mentioned, as Karn mentioned a moment ago. I mean, I don’t know, what do you think? I mean, basically, the trends seem to be deflationary at the commodity level.
+
+Karn Budhiraj
+
+Definitely. There’s that. And then there’s also the unit economics improve as volumes grow. That’s the other thing we’re seeing. As we’re becoming a bigger and better part of a lot of suppliers, the economies of scale come into play. There’s equipment depreciation that comes into play, equipment that was commissioned 5 to 7 years ago. That used to be a part of the piece price. That’s completely amortized. So, we’ll see situation where piece price comes down because that equipment contribution has gone away.
+
+And then just we continue to have this mentality of continuous improvement in terms of labor, reducing labor, improving automation, and just continue to get better at what we do. So we have seen -- I think every quarter, we have seen an improvement. Of course, the commodities spiked up and down. Just in general, the trend is towards being more efficient.
+
+Zachary Kirkhorn
+
+Yes, I’m totally agreeing.
+
+Elon Musk
+
+Yes, lithium prices were absolutely insane there for a while.
+
+Zachary Kirkhorn
+
+Yes. And they’re recovering now.
+
+Karn Budhiraj
+
+Cobalt -- the way it used to be.
+
+Zachary Kirkhorn
+
+Yes. And we’re still early in the ramp -- well, not early in the ramp, but early in the cost down curve of Austin and Berlin. And so, it takes time to work the cost out it. First, it’s a focus on ramp -- ramp, it brings cost down...
+
+Elon Musk
+
+And quality costs…
+
+Zachary Kirkhorn
+
+Yes. And then once that stabilizes, we can divert bandwidth to cost reduction. And so Austin and Berlin saw quite a decent amount of cost reduction on a fundamental basis from Q1 to Q2. We’ll continue to do that work that will be helpful. And so we’re just going to keep chipping away at it.
+
+Unidentified Company Representative
+
+Packaging is a big element to that.
+
+Elon Musk
+
+Yes, logistics…
+
+Zachary Kirkhorn
+
+Logistics is normalizing, which is great.
+
+Unidentified Company Representative
+
+[Indiscernible] utilization, something that the team has been very focused on. So, every bit of it.
+
+Zachary Kirkhorn
+
+Yes, and it’s hard...
+
+Elon Musk
+
+Logistics is underappreciated. Yes, so sold saying goes like valves and with tactics as one with logistics.
+
+Unidentified Company Representative
+
+Yes. And we’ve made tremendous improvements in cost in all fronts on expired costs. We have done pre-pandemic expired cost levels now, and our goal is to go further down.
+
+Zachary Kirkhorn
+
+Yes. So when we look at our progress from Q1 to Q2 on cost, the way that we look at internally, normalized for the impacts of mix shift with Austin and Berlin being a higher percentage of our mix, normalized for S and X being a higher percentage of our mix in Q2 versus Q1, the sequential cost reduction, it might be the largest we’ve had in a while. So, I think it’s great work on behalf of the Tesla team, and we just got to keep it up.
+
+Elon Musk
+
+Yes, it’s a game of pennies. It’s a Game of Thrones with pennies.
+
+Martin Viecha
+
+Mark, do you have a follow-up question? I think you’re muted.
+
+Mark Delaney
+
+Yes. Thank you very much for all the details on that. Maybe you could put a finer point on the downtime impact that you spoke about in your prepared comments in terms of production impact and then also to what extent there’s a margin impact from those factory upgrades that you’re planning this quarter?
+
+Zachary Kirkhorn
+
+Yes. The downtime -- we don’t know exactly the number of cars impacted because kind of the way that we go into downtime windows for upgrades is we set aside a period of time, but then the team is challenged to go as quickly as possible so that we can get the factories up and running again and minimize that. It’s not profound reduction. Hopefully, it’s small.
+
+Elon Musk
+
+I think we’re getting too much into the weeds here. I mean, like we’re asking for a level of precision that is not possible to answer. So, let’s move on.
+
+Martin Viecha
+
+Yes. I think this is unfortunately all the time we have for today. So, we’ll speak to you all in the next three months. Thank you very much.
+
+Elon Musk

@@ -1,0 +1,317 @@
+Operator
+
+Welcome to Hertz Global Holdings Fourth Quarter 2022 Earnings Call. Currently, all lines are in a listen-only mode. Following managements commentary we will conduct a question and answer session. I would like to remind you that this morning's call is being recorded by the company.
+
+I would now like to turn the call over to our host, Johann Rawlinson, Vice President of Investor Relations. Please go ahead.
+
+Johann Rawlinson
+
+Good morning, everyone, and thank you for joining us. By now, you should have our earnings press release and associated financial information. We've also provided slides to accompany our conference call, which can be accessed on our website. I want to remind you that certain statements made on this call contain forward-looking information. Forward-looking statements are not a guarantee of performance, and by their nature, are subject to inherent uncertainties. Actual results may differ materially.
+
+Any forward-looking information relayed on this call speaks only as of today's date, and the company undertakes no obligation to update that information to reflect changed circumstances. Additional information concerning these statements is contained in our earnings press release and in the Risk Factors and Forward-Looking Statements section of our 2022 Form 10-K filed with the SEC. All these documents are available on the Investor Relations section of the Hertz website.
+
+Today, we'll use certain non-GAAP financial measures, which are reconciled with GAAP numbers in our earnings press release available on our website. We believe that these non-GAAP measures provide additional information about our operations, allowing better evaluation of our profitability and performance. On the call this morning, we have Stephen Scherr, our Chief Executive Officer; and Kenny Cheung, our Chief Financial Officer.
+
+I'll now turn the call over to Stephen.
+
+Stephen Scherr
+
+Thank you, Johann. Good morning, and welcome to our fourth quarter earnings call. On the close of my first fiscal year at Hertz, I'm very pleased to report on a strong quarter and a record year for the company. Our Q4 results reflect progress made during the year on our growth initiatives, increased efficiency in our operations, strong fleet management and our commitment to prudent capital allocation in all 2022 was about focusing on our service offering and reinforcing the talent at Hertz to deliver for customers and shareholders.
+
+As we open 2023, we continue to experience strength in the business with January and the first week of February, closing strong. Our performance in 2022 and this early indication into Q1 leaves me confident in the sustainability of our financial performance the prospect of long-term value creation and the ability of Hertz to deliver a superior product to our customers on a more efficient cost base. Our strong performance also lends confidence to the forward execution on growth initiatives, including expanding our rideshare business, growing our EV platform and revitalizing the Dollar and Thrifty brands.
+
+With that, let me begin with the results for Q4. Revenue in the quarter was $2 billion, up 4% year-over-year. Revenue per day and revenue per unit remained strong with both up year-over-year, 3% and 4%, respectively. Transaction days were up 3% year-over-year reflecting stronger performance than seasonally expected. Importantly, core operating expenses per transaction date in Q4 were down 5% sequentially versus Q3, reflecting increasing operating leverage in the business as signalled on our Q3 call. Hertz produced adjusted corporate EBITDA of $309 million in the quarter, resulting in a margin of 15%, and with adjusted free cash flow at $424 million. Our results were the product of continued stability in rate and higher utilization of our fleet, all the while maintaining NPS scores for 2022 that were higher by 10 points year-over-year. Taken together, these financial KPIs were in line with guidance.
+
+Depreciation per unit in the fourth quarter was $244 reflecting the low end of the range referenced on our Q3 call. Kenny will speak to the forward direction of depreciation, but suffice to say that we view this level as moving closer to what we believe normalized or expected depreciation will be. More broadly, I should point out that depreciation on our P&L is fundamentally an output, not only of the market for used vehicles, which has begun to reverse its price declines quite substantially in the last several weeks, but also of our fleet strategy as it reflects our purchasing decisions between new versus used cars, EV versus ICE and our expected and actual length of key. As such, depreciation should not be considered in a vacuum. Our goal is to construct a fleet with the highest ROA.
+
+As you know, we took advantage of elevated used car pricing in early 2022 as an opportunity to purposely harvest equity in our fleet. Looking back these actions, when combined with the anticipated decline in prices in the back half of 2022, did not impair the adequacy of the equity cushion in our ABS facility. In fact, today, we are comfortable with the level of equity in the facility even under conservative assumptions about forward residual prices in EVs and otherwise. Downward price movement in cars, while depriving us of the magnitude of gain on sale experienced in 2022 is welcome in the context of future fleet purchases as even under multiyear plans with the OEMs, we enjoy the benefit of forward price declines should they occur. Regardless of vehicle prices, we will always keep our commitment to fleeting within the confines of demand.
+
+Turning back to our performance overall. Our results in Q4 reflected improved execution by the Hertz team. By example, travel disruptions across the country in the quarter caused our field operations to respond to higher than typical cancellations occasioned by flight disruptions as well as unplanned demand for one-way rentals. With the benefit of better revenue management tools, agile fleet management and the dedication of our people, we put cars on one-way rent at 3 times historical levels in the week leading into Christmas. Delivering for our customers with one-way rentals also enabled us to move vehicles from northern markets in the U.S. to vacation markets ahead of expected demand in January and February. The increased number of higher RPD, one-way rentals and lower transportation costs related to fleet repositioning proved positive for us, helping to offset the negative effect of cancellations.
+
+As I noted, our expense base improved in Q4. Last quarter, we set an objective for better operating leverage in the business, particularly given the purposeful investments we made in Q3 to remedy elevated out-of-service levels. DOE or direct operating expense per transaction day in the fourth quarter, excluding $168 million litigation settlement announced in December, was under $33, down 5% sequentially. This is particularly noteworthy for the fourth quarter when operating expenses tend to be higher given seasonally higher labor costs relating to the elevated cadence of year-end travel and correspondingly higher overtime and other labor expenses. Focusing on the full year revenue was $8.7 billion, an 18% increase over 2021. Adjusted corporate EBITDA was a record $2.3 billion and adjusted free cash flow was $1.5 billion, the highest ever for the company. Significant free cash flow generation enabled us to invest across our business throughout 2022, as we launched our new strategic initiatives and began a technology uplift across the company. That cash flow also enabled us to reduce our capital base by nearly one-third.
+
+I'm very pleased with our results for the year and come into 2023 with confidence in the company's ability to replace a significant portion of 2022 EBITDA attributable to gain on sale. Our confidence is based on continued improvement in execution as well as levels of demand across the business that are holding at sustained pricing. In the U.S., we closed Q4 with leisure and corporate demand, both progressing back toward pre-pandemic levels, but importantly, at higher pricing. With respect to corporate travel in Q4, we continued our recent success of near 100% corporate contract renewal with many coming at higher renegotiated pricing. Our highest rate business, international inbounds, also continued to recover and we view the return of the non-U.S. traveler as providing upside to our business.
+
+Importantly, we saw this momentum carry into January, especially on corporate and inbound. In terms of transaction days, corporate demand was up 28% in January versus January of last year, and international inbound was up 56% on the same comparison, reflecting a strong opening to the year. Similarly, our rideshare business was up 98% January over January, with RPU up approximately 20% in the same period, reflecting higher price and utilization and longer length of keep.
+
+Lastly, European business is also showing strength with rate up 20% in January versus last year. With respect to fleet, you heard me reiterate throughout 2022, and that we were focused on maintaining fleet size inside the expected demand curve. Our fleet strategy in 2023 will be a continuance of the same. With ROA or return on assets as the financial cornerstone for Hertz, our objective is to improve the revenue potential across the life cycle of a vehicle managing our fleet operating costs and matching our mix of fleet to available opportunities. All things being equal for the same revenue potential, we will take the path that results in a fleet comprised of lower cap cost as well as lower depreciating and lower maintenance vehicles across our leisure, corporate and rideshare and fleet business lines. With that, we will always remain attentive to customer preference.
+
+In terms of operating expenses, we have made progress, as I have noted, but we are not done. We continue to replace third-party employees with Hertz badged employees at lower cost including project engineers, where we are seeing a broader pool of talent at more affordable price points, aided by current dynamics at large technology firms. Regarding labor costs in Q4, we experienced marginally reduced wage pressure and better overall labor availability. Combined with field efficiencies and better technology, we look for improvement from here. We expect unit costs to move lower in Q2 and the back half of 2023 with further reductions in 2024 as we look to substantially complete our transition from data center to cloud-based operations.
+
+Looking ahead, we are rethinking our approach across all expense channels and have dedicated a newly staffed team to ensure progress. Whether that means procuring parts locally to secure price benefits scrutinizing our real estate footprint with an eye to selling underutilized parcels or renegotiating vendor contracts, everything is on the table. To vendor Hertz' a more efficient operator for 2023 and beyond. As we close out Q4 and move into 2023, we also continue to progress our strategic initiatives, including through expansion of our partnership with Uber now to include Europe, growth in our EV platform across all segments; expanded use of the Carvana and the proprietary Hertz retail channel, where we continue to secure premium pricing on vehicles sold; and continued focus on expanding our access to corporate and leisure bookings through our long-standing relationships with key partners, such as Delta Airlines and the AAA, both of which are now renewed.
+
+We also continue to progress our strategic investments in technologies such as telematics and the continued migration of our business to the cloud. There are two additional and new initiatives that are worthy of mention. These are the revitalization of the Dollar and Thrifty brands and our recently announced approach to collaborating with cities across the U.S. to facilitate the growth of our expanding EV fleet. Let me start with Dollar and Thrifty. These two iconic brands are performing shy of their potential. Each has the considerable brand recognition globally and a long history with customers. However, today, they lack consistency of purpose and are not adequately capturing the opportunity to reach the important customer population that is more price conscious, travels less frequently and is not necessarily drawn to loyalty programs and other attributes that define more service-driven brands. That's now going to change. We intend to revitalize these brands to pursue profitable mid-market growth across both leisure and business. The intention here is to utilize these brands on a more managed cost basis and independent of our Hertz brand to access customer segments that we're not adequately topping today, including OTAs, consolidators, tour operators, select airlines and other partners.
+
+We're in the very early days of this initiative. Bringing focus and purpose to Dollar and Thrifty will better position us to successfully compete against comparable brands in the market, and we believe we can do so at an accretive margin. We view this segment to the market as increasing in size and growing through multiple channels, refining the brand identity of Dollar and Thrifty will also enable us to better maintain the value proposition of our premier Hertz brand in the market.
+
+The second initiative is a new program that we announced several weeks ago at the U.S. Conference of Mayors Hertz Electrifies. This program is a complement to our standing initiative to electrify our fleet and our corresponding efforts in partnership with BP Pulse to build out the charging infrastructure at airports and Hertz off-airport locations in the markets in which we operate. As a public private partnership with major U.S. cities, Hertz Electrifies will accelerate the utilization of our EV fleet in key metropolitan markets. In addition to a wider proliferation of charging stations to serve leisure, corporate and rideshare customers the partnerships include supplementing municipal fleets with Hertz CVs, sharing telemetry data with cities as they consider electrification projects of their own and developing educational and training programs to help create a pipeline of employees with EV skills.
+
+We are beginning with Denver and based on the reception to our announcement at the Mayors Conference in Washington, we expect to have additional cities announced in the near term.
+
+Finally, regarding our technology journey, we have considerable progress to report. Our migration to the cloud is progressing well and will allow us to operate more efficiently including through the reduction in considerable consultancy and operational expense by 2024. The Hertz app continues to be reimagined. In 2022, we initiated enhancements to the app for quicker functionality and vehicle selection. This is only the beginning as we will further refine the shop and book elements of the app that move on to in-rent attributes and post-rent elements to provide our customers with a more modern, easy-to-use experience.
+
+And our work with Palantir also continues. We are currently focused on development of a fleet control tower to help us manage our large diverse fleet while also rolling out our pricing tools to nearly all markets in the U.S. In all, 2022 was a record year as measured by adjusted corporate EBITDA and adjusted free cash flow and a launch point for projects with tangible benefit to the performance of the company.
+
+Looking forward, we expect double-digit margins to hold in a market that continues to show us opportunity. Our ROA mindset remains foundational and is underpinned by a focus on EBITDA and cash flow generation with attention to expanding channels of revenue generation, like rideshare and the Dollar and Thrifty brands and a focus on unit cost of delivery. As we pursue growth, fleet and cost management remain our key levers should demand soften. While we are not seeing demand reduction today, we are positioned to confront that challenge should it materialize. The continued strength of the consumer and evolving patterns of consumption around experience over hard goods, and a potential shift away from historical travel patterns are positive trends for us. But should demand shift, we are positioned from a structurally defensive position. We do not carry a fixed asset base and our fleet profile is flexible.
+
+With that, let me turn it to Kenny to walk you through our results in more detail and provide commentary on our liquidity and capital allocation.
+
+Kenny Cheung
+
+Thank you, Stephen, and good morning, everyone. As Stephen noted, we had a solid fourth quarter and a record full year. Fourth quarter revenue was up in both the Americas and International segments and totaled over $2 billion, an increase of 4% year-over-year or 7% on a constant currency basis. RPD, RPU and 21:33days for both segments improved year-over-year. Both rate and volume met our expectations for the quarter, as we laid out on our last call, and I'll reiterate that the volume performance was 500 bps better than seasonality typically yield. Utilization increased 100 bps year-over-year despite severe air travel disruptions in the U.S. at year-end.
+
+Domestic leisure volumes across the industry have made progress towards pre-pandemic levels within our business, and we see steady improvement in corporate volumes. International inbound have been slower to recover but hold considerable promise for us. As of the fourth quarter in the Americas, corporate was at about 80% of 2019 levels and international inbound grew to about 50%, up from 45% in Q3.
+
+As international inbound continues to be covered, we expect it will prove accretive to RPU, utilization and margins. Adjusted corporate EBITDA was $309 million in the fourth quarter, a margin of 15%, growth in corporate and rideshare were large contributors with continued strength in leisure. Geographically, we saw strong performance across all markets. For the full year, revenue was $8.7 billion, an 18% increase from 2021. On a constant currency basis, revenue increased 23% year-over-year with strong increases in RPD, RPU and days across both the Americas and International segments. Adjusted corporate EBITDA for the full year was a record $2.3 billion, a margin of 27%, with both the Americas and our International business at record levels.
+
+Our focus on higher-yielding business, a dynamic fleet strategy and a focus on asset return all contributed to an improved business. We generated higher EBITDA while maintaining a tight fleet. Staying on fleet, we continue to dynamically manage our composition of vehicles during the quarter, ending the year with a fleet size of approximately 480,000 vehicles roughly equal to the fleet size at the start of the year, just as we guided. Due to seasonal de-fleeting and other rotation, fourth quarter net fleet CapEx was a source of cash. Fourth quarter net DPU was $244 within the range we quoted on our last call and continued to normalize during the fourth quarter, ending at $300 for the month of December. We expect our average fleet size in Q1 to be higher than what we closed the year in light of elevated levels of demand.
+
+Depreciation in the ABS facility let me put a bit more detail to what Stephen spoke about earlier. First, as Stephen noted, we managed the business to margin and ROA, we don't solve for depreciation in isolation. Depreciation is the output of various fleet decisions, including acquisitions and holding periods that we make in order to maximize return on the business as a whole. Second, declining car prices render a lower cap cost, which is the first ingredient to depreciation. We have been and will be buyers of both new and used cars. And as a result, we expect to benefit from downward price trends. For avoidance of doubt, we benefited in Q4 from price declines on EV purchases. Third, the holding period on our vehicles are dynamic. And decisions on length of keep are not made across the whole of the fleet but are specific to model and year. On EVs, specifically, and as we have stated previously, we expect longer length of keep over time. Further, we currently depreciate EVs over a time period that is longer than ICE vehicles. We believe this time period could lengthen given the mechanical profile of the car and with more history under our belt.
+
+Fourth, entering 2023, we are less likely to be sellers of vehicles with a primary purpose of capturing excess value, which was an opportunity that may prove to have been unique to 2022. Make no mistake, we will look for smart opportunities to harvest gains and we model for gain on sale in 2023. But we entered 2023 with far fewer nondepreciating vehicles in our fleet. And given the decline in residual prices broadly, we expect operational utility to be the primary driver of physicians on fleet deletions. And finally, the last point I will make is on our available channels for fleet disposals. While not directly impacting gross depreciation expense, we continue to leverage the Hertz car sales and Carvana retail disposition channels, providing us with a meaningful premium over wholesale channels. This represents nearly one quarter of our car sales in 2022, and we look to grow that from here.
+
+Two points to make on the ABS facility. First, and as a reminder, equity and the ABS is measured as the excess of the fair market value over ABS book value. This fair market value is determined based on the entire fleet not just one make or model and entering the fourth quarter, we had vehicles that carried excess equity at inception, driven by smart and opportunistic fleet procurement. Second, after vehicle acquisition, incremental equity is typically created by vehicles that are required to be amortized in ABS at accelerated pace compared with economic depreciation rates. This incremental equity cushion to either buffer future decline or be harvested by us selling cars with high built-in gains or high residual value risk. This is what we deliberately did last year. Our actions enabled us to harvest gains.
+
+In Q4, our equity cushion went from $2 billion to $1.1 billion. From here, we expect that the cushion will continue to be sufficient under stress scenarios more conservative than those offered by the market.
+
+Turning now to operating costs. Our revenue growth outpaced our expenses and as Stephen pointed out, BOE per transaction day exclusive of the litigation settlement was under $33, a $2 per day improvement from the third quarter. Our efforts with respect to reducing third-party spend and maintenance costs and utilizing telematics data are showing benefit. As we continue to grow our EV fleet and progress on a technology investment, we expect further improvement in operating leverage.
+
+Looking back on Q4, the quality of our earnings was driven by solid execution in a strong market. Demand exceeded a seasonal expectation across our leisure business and corporate activity proved strong, which was beneficial to mid-week utilization. Our rideshare fleet continue to grow and while at reduced RPD compared to RAC, the economics of these rentals are margin accretive, as we pointed out in the past. Residuals came off the peak in the back half of the year following our significant harvest of fleet equity in Q2 and Q3.
+
+Let me now turn to capital structure and liquidity. Our balance sheet continues to remain healthy, and we ended the year with a net corporate leverage of 0.8 times suggesting room for modest incremental leverage on the business when capital market conditions make it prudent to do so. At December 31, our available liquidity was $2.5 billion, comprised of $943 million in unrestricted cash and the balance available under the revolving credit facility. In December, we amended our European ABS facility, the Abbie Italian fleet, increasing aggregate maximum borrowings to EUR 1.1 billion extending the maturity from October 2023 to November 2024.
+
+Turning to our cash flow and capital allocation for the quarter. Adjusted operating cash flow of $156 million in the fourth quarter before considering fleet CapEx, which was a source of cash of $312 million due to seasonal de-fleeting and rotation, as I mentioned earlier. Adjusted free cash flow was a strong $424 million, a conversion of over 100%. For the full year, adjusted operating cash flow was $2 billion and adjusted free cash flow was
+
+$1.5 billion. I should point out that both the quarterly and annual amounts exclude the impact of the $168 million in litigation settlements, which were paid in the fourth quarter due to their unusual nonrecurring nature. Despite the adjustment for the settlement, full year adjusted cash flows were at record highs.
+
+As stated previously, the settlement did not impact our capital allocation our capital priorities of investing in our fleet, funding our strategic initiatives and returning excess cash to shareholders remain unchanged. During the fourth quarter, we repurchased 19 million shares of common stock for $350 million. Overall, we allocated nearly $360 million towards note capital investments and share repurchases during the quarter. For the full year, we repurchased shares equal to nearly 30% of the equity base of the company.
+
+Lastly, let me give some highlights for what we expect in 2023. I'll start with revenue. Seasonally, first quarter revenue is normally slightly below Q4 based on a reduction in volumes and flat RPD. However, for Q1 this year, we expect revenue to be flat compared with Q4 with transaction days to hold steady. For Q2 and Q3, we expect both rates and volume to increase, contributing to higher revenue in those quarters. We would expect Q4 to seasonally adjust down from those levels. On fleet, we expect average fleet in Q1 to be slightly elevated to where we ended the year at 480,000 cars, particularly given heightened demand levels, and compensating for slightly higher recall levels in the fleet. We also expect seasonal growth in fleet through Q2 and Q3 to meet higher demand in the spring and summer. From there, typical de-fleeting is expected as the year comes to a close. On net DPU, we anticipate depreciation to further normalize and settle in the range of $300 to $320 in Q1. Regarding net DPU expectations for the balance of the year, we expect it to trend down towards the lower end of the Q1 range, given anticipated mix and changing whole patterns and reflecting some modest gains on sale across the fleet.
+
+And with respect to direct operating expenses, we expect Q1 DOE per transaction day to be approximately $33, roughly equivalent to the normalized figure for Q4. From there, we expect it to trend lower from Q2 through year-end.
+
+Lastly, in prior years, we anticipate the trajectory of free cash flow generation to be weighted more heavily towards the back half of the year as we de-fleet off the summer peak and through year-end. First half 2023 free cash flow will reflect investments in fleet CapEx as the size of fleets to meet expected demand in the busy summer season. That said, and consistent with our behavior in 2022, we will continue to balance capital allocation among capital spending, share repurchase and other initiatives.
+
+In closing, we are pleased with the momentum we have seen early in 2023. And as we assess our prospects for the year, we have confidence in our ability to deliver attractive full year financial returns.
+
+With that, we'll open the call for Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Chris Woronka with Deutsche Bank. Please go ahead.
+
+Chris Woronka
+
+Stephen, sort of the high level, and you've been in the CEO seat for, I guess, about a year now. I mean, can you share any of the insights you've gained during the period and some of the key learnings and maybe what gives you confidence in the future of this business and the comment about being able to hold double-digit margins?
+
+Stephen Scherr
+
+I would say that if one looks back on 2022, I would say that it will prove to be a down payment, if you will, on the forward for the company in '23 and beyond. I mean we took the large as free cash flow over the course of the year and brought down our equity base by a third. But equally, we took opportunities to invest in fleet and non-fleet CapEx that I think will have lasting benefit to the company, both in terms of its operational fidelity, but equally kind of the growth opportunities that are there.
+
+If I look back on the year, I would say -- I would just make a couple of observations on the business, and then I'll give you a sense of kind of where that leaves me in terms of optimism on the forward. First of all, the performance of the business has improved. And I think we're now running a quality of business that's more befitting of the Hertz brand. Second, I think we have changed the mindset across the whole of the company to a true adherence to an ROA sort of mindset. That is we now manage and understand the business across the whole of the company based on financial return, which I think is important. It's not to the exclusion of a view on the customer. But I think we just hone tighter and more efficient in how we manage fleet and otherwise.
+
+Third, I would say we brought better human capital to the game. So Hertz is going to be better by virtue of a new group of executives that we brought on to run it. And that combined with the tenure of people that we have in the field and organizational changes we've made in the field to run this better with more line of sight responsibility for production efficiency, customer service also better.
+
+Fourth, I would say, and as I mentioned, our technology is improving. It may not all be visible to the market, but we're building better technology tools for our people in the field, better technology for our customers to use and setting the whole of the company up in the cloud as opposed to a data center will be better for us overall. And then I think the last thing I would say is that a big discovery certainly for me and I think for the company, particularly as we look to fleet inside demand is the recognition of the value of a very deep and broad used car market in the U.S.
+
+So where does that lead me on the forward? I think, first, we've identified a set of growth vectors for the company, whether that's rideshare, Dollar Thrifty EVs. And I think they all carry a different profile with respect to durability of revenue that will be different than what you see in kind of the classic RAC business. Second, I think we're going to continue to operate with discipline. And importantly, I'm observing the industry to be showing that same discipline, perhaps benefited by the fact that OEM production of cars is still beer, but I think the industry is showing the discipline that we ourselves are demonstrating.
+
+I would say that over the last couple of quarters, I think we may have signalled that, in fact, used car prices are disconnected from rates, meaning typically, you looked at this industry and as prices fell on residual rate went that way and that's not happening now. And I think that's important, particularly if the worst of used car decline is behind us in terms of what's most precipitous. So I think we're in a good place and now, I think, in a good place from a capital allocation point of view, which is like we did in '22, in '23, we're going to focus on fleet and non-fleet CapEx serving the growth initiatives and all the while attentive to the opportunity to buy back stock. And so that's kind of where I am, Chris, in terms of what I've seen and where I think we're going.
+
+Chris Woronka
+
+I guess as a follow-up, obviously, a lot of headlines recently around price cuts on EVs, particularly Tesla. And I think there's just some general curiosity in the market about how that impacts Hertz both puts and takes, right, on the purchase and resale side. Is there any way to kind of walk through that and give us a little bit of color of how you guys are thinking about it?
+
+Stephen Scherr
+
+Sure. Why don't I start, and then I'll hand it to Kenny to give you sort of more particulars. But look, first of all, as Kenny said, we benefited from price declines in electric vehicles in the fourth quarter. And so we've moved in that direction. I think it's important to also know that we bought now, call it, 20%, 25% of that, which we expect in terms of an overall EV fleet that by 2024 will be a quarter of our fleet. And so as prices come down on electric vehicles, we'll buy 80% of what we want at a lower price point because as we said in the prepared remarks, cap cost is the first ingredient to depreciation on these cars.
+
+I think it's also important to understand that in terms of EVs, we rode these up and then down, meaning we started early, bought them at a low price. Obviously, we paid higher as the market did, but then paid lower. So you need to look at kind of overall average cost that's there. And the last thing I would say, and this will play into depreciation as it being an output, not an input, but we have said on various calls that we expect the length of keep around EVs to become longer over time and longer even still to where we sit today. The nature of those cars, the experience of those cars, the ability to re-kit the interior will give us kind of a length of keep well in excess of where we are. And that evolve in terms of the overall depreciation cost of these cars on an annual basis.
+
+But let me turn to Kenny for a little bit.
+
+Kenny Cheung
+
+Yes. Chris, it's Kenny. So let me give a bit more color on what Stephen talked about in terms of depreciation. And then maybe I'll talk a bit about the ABS as well, Chris, to your question. So depreciation, right, I think it's important to note that we don't do a mark-to-market on our vehicles, right? So instead, appreciation is a function of other variables. For example, cap costs, right? In this case, cap costs, the price is coming down, cap cost is lower, lower depreciation, right? The second piece, which Stephen pointed out, which is more relevant to a Tesla is expect the residual value over the whole period, right? With EVs, this is particularly important given their ability to operate for longer. And longer hope here will reduce the impact of residual changes on depreciation.
+
+On the pricing side, keep in mind that we did average in tests across the year. So we -- so our blended cost for Tesla is reduced by the early purchases and the most recent ones that we bought in Q4. In terms of the fleet size, I mean, Tesla right now is roughly, call it, less than 10% of our total fleet. So the impact on depreciation is a bit minimized.
+
+And the last thing I would say is that all else being equal, a lower cap cost will further enhance the economics of EVs, which is proving to be accretive to our business. Quickly on ABS, Chris, we do bring in the test laws into the ABS at a, what I call a haircut, right, let's call it 5% haircuts. On day one, there is equity to be had. You're in the money on day one. The second piece is subsequently, every month, the Teslas faster in the ABS than the economic death rate, which also provides cushion. So as you can imagine, we look at the pool of cars as a whole, not by maker model. And right now, as I mentioned on the call, we have sufficient cushion entering 2023.
+
+Operator
+
+Our next question comes from the line of Ian Zaffino with Oppenheimer.
+
+Ian Zaffino
+
+Great color on the comments on depreciation, maybe not tracking rates. Can you give us maybe a little bit more color? What is per se giving you confidence there? And then also, how does that then figure into your normalized EBITDA target and how you're thinking about that?
+
+Stephen Scherr
+
+Well, I think -- listen, it's important to understand depreciation is not kind of a fixed element, meaning it's influenced by a number of decisions and factors that we make all with an eye toward the ROA or the margin of the overall business. And so I'll just make a couple of comments. First of all, while we're attentive to what customers want, as and to the extent that rate is not being differentiated as between a brand-new car versus a good condition, low mileage used car, we're going to run with lower cap costs, lower-cost cars, okay? And we look at the totality of what the cost of that vehicle is in terms of making those decisions.
+
+So I think that we're in a place where, as we think about financial performance, whether it's EBITDA down through cash flow, depreciation is but one element, and we have quite a number of levers to control in the context of it based on what we buy, the length of keep for the vehicle Obviously, as we engage in growth around P&C and Dollar Thrifty, those are going to be two kind of business repositories where older cars are going to go therefore, playing to sort of higher margin and lower depreciation. All of those are factors that influence depreciation. But again, depreciation is but one piece of an overall puzzle and it itself is an output of some very clear decisions we make around the return profile, looking at cap cost, maintenance expense and overall economic return for the car itself.
+
+Kenny Cheung
+
+Just to give more color, Ian, on depreciation. So if you look at Q4, right, as I mentioned, net DPU was $244. If you bifurcate between gross and gains on sale, gross was roughly $346 million, and then the gains on sale per vehicle was $102 that's how you get to the, call it, the $2.44. As you look outwards, right, I've talked about we expect in the range of $300 to $320 for the rest of the year, right? So growth appreciation for the most part, faced similar, right? Let's call it $350 for rounding standpoint. The gains on sale, right, we had $100 in Q4, high-low math, let's say that's $50 now. So that $350 minus $50 gets you to $300 for the rest of the year. And that's how we think about it.
+
+Stephen Scherr
+
+Yes. The one thing I would say, though, is that we've taken a rather conservative approach to sort of what we believe price decline will be over the course of the year. And I think we said in our remarks that we're more conservative than where the indices or the market is forecasting. And so that obviously plays into the view we have on the forward and we will adjust. So we're taking expense down.
+
+I think in the last five weeks, we've seen a correction to use car prices to our benefit, not to our detriment. And therefore, gain on sale may improve over the course of the year to the extent that we see that sort of continue on. And to the extent that the worst of used car decline is behind us. But I think we're taking a prudent and conservative approach to this and have a number of levers to sort of offset where depreciation will be, no less what depreciation will be as we play forward.
+
+Kenny Cheung
+
+Yes, the way the years of the good start have you awake our on cars selling prices gone up every week.
+
+Ian Zaffino
+
+And then may can you just touch upon on the corporate side. Maybe also international inbound. How is that progressing assortment February? Where February looks like? You know I have been negotiating some of the contract some of the corporate side. How’s that going? And what should we expect on that front.
+
+Stephen Scherr
+
+Sure. So let me take them in that order. First of all, the inbound business, which is a very profitable business for us, okay, has been up quite considerably. In fact, the momentum we're seeing carrying into this first quarter, if you just look at the month of January, international inbound was up 56% year-over-year. So comparing January as against January. And that business continues to sort of play very strong. In fact, it played strong even through year-end when, in fact, foreign exchange would have suggested otherwise. So it just suggests to you the strength of demand of travel by non-U.S. customers who are coming to the United States. So very strong, and the momentum is carrying forward into January kind of as an early indicator on where we are on the year.
+
+In terms of the corporate business, I would say that January equally sort of told you of the continuation in demand. Demand was up 28% over January, again, with corporate demand coming back now closer to where we saw it. Importantly, I would tell you that if you look at contract renewals, and I made a comment to this in the prepared remarks, we're seeing near 100% contract renewal on our corporates importantly, they're getting renegotiated at higher prices. Obviously, corporates are focused on EVs as an alternative to put their employees in to satisfy their own ESG commitment, but the corporate business is feeling quite good, very strong.
+
+I'd also make one other comment to you, which is not just simply about corporate nor about inbound, but about the totality of travel, which is this last Sunday, if you look at TSA figures, they processed on Sunday about 1.7 million travelers across the United States. What's interesting is that if you look at the 4 prior Sundays, they were all consistent in at about 1.2 million. Now one week doesn't make a trend, but steady at 1.2 and then a jump to 1.7, and you just listened to what you hear from the airlines and hotels let alone what we're telling you about our own business. And it seems that travel has been pacing well.
+
+One last point on corporate, I would raise with you, and that is if you look at the pattern of corporate demand, it too is changing for the better for us, meaning, over the course of 2022, we saw an increase by about 20% for about 1.5 days to the duration of a corporate rental. That means that people are keeping that car longer. The way in which that's manifesting itself as a person is on a business trip, they may extend by a day and then extend by two more days to keep a weekend in sort of the combination of both leisure and business that as days, by definition, to the rental, and that's been quite beneficial to us in terms of overall activity.
+
+Kenny Cheung
+
+Just one point to add. International inbounds, when they come back and Stephen pointed out, they'll be buying VAS and they're very profitable to our business. But right now, despite even, what I would say, softness on international inbound, versus '19, we are seeing VAS of double digit, right? So structurally, our improved VAS program is definitely working. And in corporate, even though we are seeing very, very strong renewals on -- with the economics. The rates on the corporate are lower than RAC, but it is RPU-accretive because they come in midweek and helps with utilization.
+
+Operator
+
+Our next question comes from the line of John Healy with Northcoast Research.
+
+John Healy
+
+Stephen, why don't you just to touch a little bit about free cash flow. I was hoping you could give us some guardrails to maybe think about that in 2023. Obviously, I know you're not giving formal guidance on it, but would just love to think about kind of non-fleet CapEx, just corporate CapEx. Anything related to cash maybe going into the funding facilities. It sounds like you have ample equity already in there. But just maybe some guardrails to think about that for this year.
+
+Stephen Scherr
+
+Sure. Listen, I just -- I think to give you a context, obviously, the magnitude of gain on sale that we saw at very elevated prices in the early part of 2022, is unlikely to repeat itself. And so the task in front of us is to replace, right, lost EBITDA and, therefore, lost free cash flow that was attributable to gain on sale, order of magnitude with fundamental performance in the business. And I think what you're hearing from us is we believe we will see better on volume, better on rate we'll see that sort of play out throughout the year. We're seeing continued growth, as we've just spoken about across all channels. We're going to start to execute on the growth elements of the business to generate EBITDA and free cash flow, whether that's in margin-accretive activity around the rideshare business or what we do around Dollar Thrifty as we get back to the back half of the year, all of that will be a benefit and considerable offset to what we see decline in terms of gain.
+
+Now it's hard to read and extrapolate off of the first, call it, five weeks of the year. But in the first five weeks, you heard Kenny say we've seen a reversal of the direction that residual prices were taking. And therefore, that carries the potential upside to preserve gain on sale, certainly not at the levels that we saw last year but as an offset to perhaps what we thought we might realize over '23 as we were ending '22. So again, that's going to play to sort of overall sort of free cash flow dynamics that are there.
+
+I would say there's nothing that we see to siphon free cash flow into the ABS facility. Of course, that could always change, but what you're hearing from us is based on very conservative assumptions about forward price movement in cars, which were not -- which we don't think will necessarily see. But nonetheless, for modeling purposes, we feel we're well positioned in the ABS facility with no need to sort of fund it as it were across the whole of 2023 itself. So that will not be a siphon.
+
+I think as it relates to fleet, we're going to be very, very attentive to the kind of rules and the boundaries that we've set for ourselves. The extent to which we spend cash on fleet will be totally a function of ROA that is fleeting inside the forward demand curve and effectively and efficiently deploying capital against fleet will be the way in which we will do it. And as I said before, we're going to look for the lowest cost investment to meet the customer need, which is looking hard at cap cost, maintenance, depreciation out of service, all of that is going to feed into an ROA model so that we're not going to simply look to deplete free cash flow simply because we have a hunch about where we want a fleet. We're going to be fleeting smart. Much of that is going to happen in the first half of the year, as Kenny said, as we build the sort of a market demand level in Q2 and Q3, and then it will come back down in Q4. And that's kind of the dynamics that you'll see us sort of play with, in the context of free cash flow management.
+
+John Healy
+
+And I thought I had to ask this question because it's come up a few times in your prepared remarks, the ROA comment. Is there a way to think about an ROA level that you view as acceptable or that you've kind of tasked the team with trying to achieve maybe in the near term and maybe over the long term?
+
+Stephen Scherr
+
+Well, I think -- I mean, listen, you want to be -- the way I would say it is, it's all relative to sort of the competing uses of cash in the business, okay? So we're going to look for a return on the invested dollar in fleet as measured against what we see in terms of the return profile of nonfleet CapEx to the business and equally what we see in the context of share repurchase. They're all valid uses of capital and we need to make relative judgments, not absolute judgments in terms of where we deploy do.
+
+And if the return on the fleet is going to pay handsomely relative to other uses, we'll put it there. If there is long-term value to the return profile of a Dollar into nonfleet CapEx, obviously, we're going to look at that. So capital allocation is going to be subject to great rigor, and I'd hate to put a particular number down and say we need it or not. It's all a relative judgment. And obviously, long term, our desire is to keep a very high sort of pull through to free cash flow right, from the EBITDA number. And on a steady-state basis, I'd like that number to continue to be 70% or thereabout in terms of just the efficiency and the pull-through of EBITDA in through free cash flow. That doesn't mean it's going to happen every quarter or it happen every year, but I think you should view that as the target that we want to operate to and the relative sort of outlay and allocation of free cash flow will be subject to the rigors of return.
+
+Kenny Cheung
+
+Yes. And just to build on that one. In a steady state, John, right, if you just think the free cash flow build, right, you have EBITDA to operating cash flow, that's 90%, which proved to be correct this year. And then you also have in a steady state, you would have the fleet size, cap costs, et cetera, would be somewhat steady. So nonfleet growth will be minimal in that equation. So -- and then, call it, not CapEx, call it, close to historical levels. Is that how you walk to the 70% of conversion from EBITDA.
+
+Operator
+
+Our next question comes from the line of Adam Jonas with Morgan Stanley.
+
+Adam Jonas
+
+Well, for Steve and Kenny, thanks for all the details, and it really does help us model and helps manage expectations, so well done for that. But the one thing you left out is on fleet interest expense outlook, $159 million last year, it's down about 45% year-on-year and well down $400 million from a few years ago pre-COVID. Now I know things have changed. But as your hedges roll and you see a step-up in funding costs from the ABS market, what should we be thinking about on fleet interest costs for 2023? And then I have a follow-up.
+
+Stephen Scherr
+
+Sure. So I'll have Kenny give you sort of some precision around the numbers, but the hedges that we have in there, Adam, are going to roll on the forward. We're obviously watching and managing them. These are not new to me just given what I did before. And so they've proven to be very valuable to us in locking in sort of the cost function of the interest expense.
+
+Kenny, maybe you want to speak to sort of the numbers themselves.
+
+Kenny Cheung
+
+Yes. So if you think about our structure on the debt stack, right? So roughly 75% of our costs are fixed base, right? And then most of majority -- the majority of our costs are on the ABS side. And roughly 80% of that is fixed as well. Last year, our blended cost was roughly 2.5% is very effective from a cost borrowing standpoint. Entering this year, we expect this number to be roughly around 3% to 3.5%, Adam, for -- on the EPS side. As Stephen mentioned, we have hedges in place. So for example, roughly 40% of the ABS is variable funding notes we are contractually to have caps in place on those. And right now, they're currently in the money as we speak. And we sell this going through the P&L in Q4.
+
+Adam Jonas
+
+Just to clarify that before my follow-up, you're saying 3% to 3.5% of the ABS side, but with hedges in place, that are in the money, you might have up better than that. We should be thinking that, that could be even better than that in terms on fleet interest?
+
+Kenny Cheung
+
+Yes. 3% to 3.5% with caps. Yes, 3% to 3.5% gross.
+
+Adam Jonas
+
+And just, Steve, your point on using conservative and prudent assumptions. I think you made that point many times. I didn't know if there was any way you could tell us what your assumptions are on Manheim throughout the year or a range of that? Presumably, it's further declined, but I didn't know what we should be thinking of in there because you're still allowing for $50 per unit of gain on sale. I don't recall how normal that is to have that order of magnitude gain on sale. But any color there without holding it to a specific index our -- of course, of course.
+
+Stephen Scherr
+
+Sure. Yes, of course, of course. I would say the following. As you would expect, we model, particularly around the ABS facility on a very conservative basis because I don't want a surprise. And so I want to understand what the risk is to us having to put equity into the ABS facility under a variety of sort of scenarios. And so we model to an annual decline in residual pricing that's probably a couple of hundred basis points wide of what the indices sort of publicly report, okay? Now those vary, and they depend on which segment of the fleet population you look at but I think we model on a conservative basis. And then I look at kind of standard deviation movement to price to sort of understand what's our risk level and tolerance against those very conservative assumptions we believe that there's no scenario as we look forward, whereby we're going to be required to sort of put money into the ABS.
+
+Now anything can change, but I think we take a fairly conservative set of assumptions. Now carry that assumption about residual price decline in '23. And I would say that we are on the conservative side, again, carrying that over from the ABS analysis into what we think gain on sale will be. And so I think that we look at what's playing out over the last five weeks. We look at what we're harvesting in terms of the increasing utilization of Carvana and our own proprietary channel, where we capture 5% to 7% premium to what we get in the wholesale market, take all of that together, and I'm still quite optimistic about the ability to harvest fairly have some gain on sale. It won't be what it was at the top of 2022, but there's enough in there, right, to offset gross depreciation. So that's a little bit of the narrative, Adam, in terms of how we think about residual decline relative to the market, primarily for ABS, but then carrying it over to sort of sort out what we think expected gain on sale will be, again, both through wholesale and again, an increasing use of premium channels.
+
+Operator
+
+Our next question comes from the line of Ryan Brinkman with JPMorgan.
+
+Ryan Brinkman
+
+I heard in the prepared remarks that like in 2022, you expect to be agile in '23 in allocating capital between capital spending, share repurchases and other initiatives. First, maybe just other initiatives, what is this? This is spending apart from CapEx? Is it acquisition? What are the other initiatives? And then what are the current priorities in that hierarchy for capital spending? And then what would you say are like the major factors that would cause you to allocate capital differently to remain agile as 2023 plays out in your share price, interest rates, travel trends? Or what should we be thinking about?
+
+Stephen Scherr
+
+Well, I think the truth is you listed them all out. I mean the fact is that capital allocation sort of comes in what I would describe as sort of three categories, okay? We look at fleet, we look at non-fleet and we look at the opportunity to engage in share repurchase, okay? And we probably look at them in that order with the ability to sort of play in all three, okay? We've talked a lot about fleet and how we think about it. We maintain a level of control around fleet relative to demand, and we're looking to sort of optimize the return on that in terms of the amount of money that we put against it, okay? On non-fleet, we will continue to invest in the fundamental sort of foundational elements of the company so that we can execute effectively in our core business and around growth initiatives.
+
+It means technology, it means human capital. It means putting tools in the hands of our employees -- and all of that equally is accretive to us the way in which the business is run and then we look at where share repurchase otherwise sits. When I speak about other initiatives, there are small immaterial opportunities for us, for example, to look at certain franchises that were sold, okay, during bankruptcy, which I think in the better light of day, we sooner own than have as a franchise. These are mostly U.S.-based opportunities. And the ability to potentially buy in one or two of those. Again, I want to be crystal clear. These are immaterial. They are very small. They'd be in the category of bolt-on acquisitions, but they would prove to be accretive to sort of the performance of the company overall. We will look at those as and when they present themselves, but that won't be realized from kind of what we're looking at in terms of fleet and non-fleet and again, what we do in terms of share repurchase itself.
+
+Ryan Brinkman
+
+And then just last one for me. What is the very latest in terms of what you're thinking in terms of the implications of the inflation Reduction Act on commercial EV purchases and the potential impact to Hertz.
+
+Stephen Scherr
+
+Well, I think we're still in a mind that, again, separate out what the provisions that were for individuals, okay, as opposed to provisions that were guided towards us because they were two separate pieces of the legislation. As it relates to us, we still view ourselves as being in a position to benefit from the tax credits. There's still sort of elements of that and rulemaking that will need to go on, the devil will inevitably be in the detail, but we view that benefit as being consequential to us on forward EV purchases. There have been some changes on the individual sort of purchase side where classifications of certain cars have opened up and the like. But as it relates to Hertz proper were of no different view about the benefit of that tax credit that will play to us in the forward sort of acquisition of EVs.
+
+Operator
+
+Our next question comes from the line of Christopher Stathoulopoulos with SIG.
+
+Christopher Stathoulopoulos
+
+Stephen, could you elaborate on your comments around the sharp reversal in price declines of used vehicles in your prepared comments. I know you subsequently touched on that, but any more color there, the drivers, your view of the current market and your thoughts on that into the spring? And then I have a follow-up.
+
+Stephen Scherr
+
+Yes, of course. So in -- I want to say, in each of the last four or five weeks, we have seen a tick up in the residual value of cars as computed by Manheim and other indices, okay? It's important to recognize that there's a general pool of cars that they look at and then there is a fleet view, which is obviously more relevant to us. Both have been up, but we obviously watch sort of where we are. And that has been obviously beneficial in the context of how we think about the overall performance of the company and what we think we can do in terms of the movement of cars and gain that we can capture as against that.
+
+As for the factors that are guiding it, I would say that new cars remain elevated in price and at a premium in terms of availability. And I think that coming out of kind of a trough period for purchase I think people who are in need of cars are coming to the recognition that a new car, if available, is still at an elevated price point and they're otherwise coming back to the used car market as a source for buying a car. And so I think this is a little bit of the dynamic as to where the OEMs are forecasting sort of opportunities, the price that they're holding and what that means in terms of people coming back into the used car market as a source of a vehicle for them to buy. But it's been fairly consistent in the context of the first four or five weeks of the year.
+
+Kenny Cheung
+
+Yes. I'll add two things. I think not only have we seen the week-over-week increases, as Stephen mentioned, we're -- we also see retention. They're actually holding those prices as well, which bodes well for future indication. And then we're also coming up spring break in March, April time frame, which is seasonality, one of the strongest moments for used car sales.
+
+Christopher Stathoulopoulos
+
+And my follow-up. So I'm curious, -- as it relates to the airlines, obviously, the airport business, given the challenge the airlines have been having and will likely continue to have with respect to capacity and their ability to handle harsh weather versus what's been an ongoing momentum in demand recovery. Is that dynamic at all reflected in your outlook? I know that you spoke to some pressure on the top line and perhaps some costs, I believe it was with the BOM cycle in December. And this sort of this dynamic persists. Is that contemplated and how you're thinking about the guidance or your business going forward?
+
+Stephen Scherr
+
+Yes. Well, I think the reference we made and that you just made now, just sort of Christmas, I think, is pretty telling in that what we would have lost because you obviously experienced cancellations to the extent that there are airline cancellations as a customer doesn't arrive, we saw a meaningful pickup in one-way rentals, as I had mentioned. And those come kind of with the benefit of being at a higher rate. And then equally, they repositioned cars from areas where we need them less to where we need them more and to avoid spending a couple of thousand dollars on the transportation of a car, that's a benefit.
+
+And so there's a wash, if not a positive benefit to that, not that we wish the circumstances that played out in Christmas to happen, but I think we are positioned to be able to respond to it. Now the way we respond to it is a little bit of a function of what I said in response to the question earlier about the business performing better. We have a better insight into pricing. We have a better insight into how we manage the fleet. All of that are elements that enable us to be very quick and very responsive to sort of changing circumstances in travel.
+
+I would also point out that there are very few car rental companies that can respond to what we saw in Christmas relative to Hertz. Now there are other majors that can but there are a myriad of smaller players that are not in a position to put their customers in one-way rentals in the way in which we can. And I think that's a very big deal to the extent that customers are going to be anxious about disruption to airline travel, they will know that if they're in a Hertz, if they are in a Hertz rental that we're going to be in a position to serve them no matter where they get rerouted or how they want to get to where they get to. That's a competitive edge for us relative to smaller niche players in the rental car industry. And I think when it's tough, you want to be able to sort of rely on a company to deliver and we did in Christmas, and we will should those disruptions sort of happen again.
+
+Operator
+
+This concludes today's question-and-answer session. I'd now like to hand the call back to Stephen Scherr, Chief Executive Officer. Please go ahead.
+
+Stephen Scherr
+
+So thank you all for your participation today. We look forward to sharing further updates with you all certainly on our next call, if not before. And with that, I'll turn it back to the operator.
+
+Operator

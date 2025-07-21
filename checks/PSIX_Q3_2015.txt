@@ -1,0 +1,419 @@
+Operator
+
+Good day, and welcome to the Power Solutions International Third Quarter 2015 Earnings Conference Call. Today’s conference is being recorded. At this time, I would like to turn the conference over to Gary Dvorchak, Managing Director of The Blueshirt Group. Sir you may begin.
+
+Gary Dvorchak
+
+Thank you, Onate [ph]. Good afternoon, everyone. We’re pleased that you’re joining us for the Power Solutions International third quarter earnings conference call. Speaking on the call today are Gary Winemaster, Chairman and Chief Executive Officer; Eric Cohen, Chief Operating Officer and Michael Lewis, Chief Financial Officer.
+
+By now everyone should have access to the press release that we announced today. If you have not received the press release, it’s available on the Investor Relations portion of Power Solutions website at www.psiengines.com.
+
+Before we begin, I would like to remind you that the information in today’s press release and remarks made by our executives on this call may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995.
+
+These statements are based on information currently available to us and involve risks and uncertainties that could cause our actual financial results, performance, prospects and opportunities to differ materially from those expressed in or implied by these statements.
+
+These risks and uncertainties include, but are not limited to, the factors identified in our news release and in filings with the Securities and Exchange Commission. You may access any of those filings at www.sec.gov.
+
+Please also note that the information provided on this call should be considered current only as of today. Except as expressly required by the Federal Securities Laws, we undertake no duty to update that information.
+
+Finally I want to mention that a replay of the call can be accessed after that the call and will be available for approximately one year. With that I would like to turn the call over to the company’s Chairman and CEO, Gary Winemaster. Gary?
+
+Gary Winemaster
+
+Thank you, Gary and thank you everyone for joining our call. I will start the call by introducing our new CFO Michael Lewis, then I will explain the cross currents that results in our preannouncement last month. In contrast those with the optimistic long-term outlook. When I am done, our COO Eric Cohen will offer more detail on our Q3 operating highlights. Finally, Michael Lewis will discuss the details of our financial results and then I will conclude with a discussion of our outlook.
+
+For that though, I want to encourage all of your to turn to our first ever Analyst and Investor Day. We’re holding the event next Tuesday, November 17, here at our headquarters in Wood Dale, Illinois which is just a few minutes to the West of O’Hare Airport. We are planning an extensive and comprehensive event, starting in the morning and going into early afternoon, we’ll have presentations from all of the company’s senior operating leadership, tools of the manufacturing facility and hand down demonstrations of equipment and vehicles expanding our whole product line.
+
+We will discuss many of the incentives, initiatives and other opportunities that we believe can drive substantial growth in the quarters ahead. We’ll webcast a presentation for those who can not attend, but really encourage you to be there. We think a lot of the value can come from the demonstration and a change for informal interaction with our team. If you wish to attend, just get in touch with our Investor Relations Firm, Blue Shirt Group.
+
+As most of you are aware, Michael Lewis joined us mid October as our new CFO. He succeeded Dan Gorey who retired after nearly five years of PSI and 40 years in a variety of corporate finance world. We are grateful for Dan’s service to PSI during the critical period of our growth and wish him the best in retirement.
+
+We’re also grateful to have Michael on board. He is a highly skilled financial professional who can help us drive growth and improvements at PSI. His industry experience fits our strategic objective of growing our on-road business. He will also manage the Investor Relations Functions – has managed Investor Relations Functions at previous employers and understand how to interface with investors. We’d hope you get a chance to speak to Michael and get acquainted in the next weeks ahead.
+
+Although we faced some challenges in the quarter. We are satisfied our progress, and our positioning for 2016 and beyond. We reported the highest quarterly revenue in history at $112 million which represents 18% sequentially growth. I would remind you that, just five years ago, that amount was our annual revenue.
+
+We pride ourselves on being a growth company. So we find this 19% year-over-year growth gratifying. We accomplish this growth while integrating three acquisitions from earlier this year and while working to correct problems at 3PI that are impacting our profitability.
+
+Although, our earnings were down due to 3PI and some efficiency issues that Eric will discuss. We are still profitable and generated $15 million of positive operating cash flow. We intend to remain profitable, a profitable growth company in a quarter’s ahead.
+
+I also want to emphasize that despite working capital needs associated with the growth and the losses at 3PI. We substantially improved our balance sheet during the quarter. We doubled our cash position, reduced the cash tied up in working capital, and paid down debt.
+
+We realize there were concerns in the investment community about our balance sheet strength. But as you can see, we remain financially strong and that – and the company remains in full compliance with all of our covenants. Our whole leadership team has never been more excited about the opportunities in front of us. All years of work apparent that the on-road is about to bear fruit and we expect meaningful contributions from those efforts in 2016 and beyond. Notably, we are getting extraordinary amount of traction in China, which we expect to be far larger than the U.S. for alternative fuels near term.
+
+We’ve already announced working partnerships with two leading best companies in China, Yutong and JAC. We will be announcing two more China partnerships next week and quite likely more later on. We always expected China to be a solid market for us, but the Volkswagen emission scandal has accelerated the sensitivity to diesel as a platform. This is creating additional opportunities for our non-diesel engines and we are investing at appropriate levels to support our growth.
+
+The China opportunity layer on top of many on-road applications we are pursuing here at home. Most importantly, we have ongoing, tight commercial relationships with OEMs that serve 70% of the U.S. school bus market that into $700 million year engine market. With 12% are already going to profane, our engines are the profane options for Navistar, IC Bus and fleet liners Thomas Built Buses.
+
+Beyond school business, we are actively doing design work for RVs and large delivery truck fleet. And of course there are plenty of opportunities left in the industrial market which we first build our business. Combined heat and power starting to emerge is a large opportunity and even in the legacy businesses like arbor wood recycling, there are opportunities to improve our profitability with new generation engines.
+
+The common theme to all the opportunities is diesel replacement. That 20th century technology served the world well during the industrial revolution. And now modern world however, the emphasis is moving to using premium burning alternative fuels that do not compromise on cost, performance or engine service life.
+
+Our spark ignited engines are lighter, less expensive than our diesel competitors and our design to use any fuel that can run on cheap plentiful natural gas or so called bridge fuels like gasoline and propane that are less expensive than diesel, but have fuel infrastructure in place.
+
+To us, we clearly see the general direction that industrial and transportation markets are going, better position to serve those markets flexibility by offering the most alternatives around the power and fuel spectrum.
+
+Let me turn the call over to Eric to discuss the details of our operations in the third quarter. Eric?
+
+Eric Cohen
+
+Thank you, Gary. I’ll dive into details on our operations and then turn the call over to Michael for financial review.
+
+As Gary highlighted, this was our best revenue quarter ever and we’ve managed growth inevitably, but we think there are some issues that are temporarily depressing our profitability, being the market leader complete challenges in our case this quarter fulfilling high demands. In the context of our biggest quarter ever, it is not surprising that we would experience some growing pains, but trying to meet customer timelines and efficiently ship orders.
+
+With process improvement, we have now reduced waste in both the machine and test stations associated with our 8.8 liter engine. To reduce material costs, we are now able to use Olson freight on some parts then we will be ship by there and we are planning to have volume negotiating power to get better pricing.
+
+As we go into Q4, the supply chain issues are under control. We also installed real time problem tracking and workflow balancing software on each production line which will enable us to improve quality and eliminate waste. We now have a reinvigorated team and are making more data driven decisions and should be able to manage growth more effectively going forward.
+
+The second element of margin pressure was results of 3PI. As we discussed last quarter, 3PI has struggled and is loosing money. In third quarter, 3PI had an EBITDA loss of $1.6 million and revenue of $5 million. We are implementing initiatives intended to restore 3PI to an EBITDA breakeven run rate in Q4 and to generate profitable revenue growth in 2016.
+
+We are still resolving historical adverse effects at 3PI. As we wind down those initiatives and reset our going forward strategy, we have increased our focus on a bread and butter market high-end customized packaging for complex power problems. There is no shortage of applications that we are expertise. Consider the massive growth of data centres so called cloud software services, these facilities have demanding power needs including backup since they can never fail.
+
+Similarly, we are seeing rapid growth in combined heating power or CHP or COGEN which more efficiently utilizes energy for commercial and residential developments. The huge build out of renewable energy sources such as wind and solar was creating a need for large auxiliary demand response systems to keep electricity flowing when the wind is not blowing or sun is not shining.
+
+While we build this pipeline of new business, the team was squeezing hard on cost reductions and expense control. We are seeking multi unit builds to gain manufacturing efficiencies, or directing all incremental expense toward revenue generating activities and looking at all reasonable outsourcing options. Based on this plan, we expect to see substantial revenue growth with meaningful EBITDA in 2016.
+
+These would give the impression that all our acquisitions were challenging, in fact our three this year had performed better than planned and our consolidation activity will produce real cost savings in 2016.
+
+Most importantly, Powertrain Integration has been a homerun for us, generating meaningful incremental revenue and opening many doors at customers and in geographies around the world. PI accounted for over half of our sequential growth in Q3. And remember, we had a perfect quarter of revenue from PI in Q2. So this is mostly organic growth when looking at the sequential comparison.
+
+Many of the China partnerships that Gary alluded to were initially PI leads, although, now we are pursuing them as an integrated PSI sales and engineering force. We expect to improve margins on PI Engines when we move production to Wood Dale.
+
+Meanwhile, Buck’s is fully integrated. We’ve moved all manufacturing to Wood Dale assume meaningful cost reductions in our volume buying power. With consolidated all other support activities in Lubbock, Texas such as product, service and irrigation engine distribution. We have – we moved the Lubbock warehouse on to PSI ERP system so we now have a fully integrated operation. We also moved their engineers here to Wood Dale and their harder work on the next generation irrigation system engine.
+
+We’re tackling Bi-Phase this quarter. In fact production has being moved here to Wood Dale as we speak. Bi-Phase was really a technology acquisition that gives us better quality control plus saving us approximately $1000 per engine. We are realizing those savings as expected. Our teams are doing a great job at integrating this years acquisitions and creating a single, more robust PSI that is to clear industry leader in alternative fuels.
+
+I’ll now turn the call over to our CFO, Michael Lewis to discuss our financial results in detail. Michael?
+
+Michael Lewis
+
+Thank you, Eric, and hello everyone. I will review our operating results and financial condition in more detail and then return the call back to Gary for an outlook. Before I begin let me mention how excited I am to join PSI. The company is the leader in the alternative fuel engine space and is poised to grow significantly. PSI is a clear leader in industrial applications and the emerging leader in on-road. I am very happy to join such a fast growing company in the timing and growth prospects are so strong.
+
+Let me move to the third quarter financials. Net sales for the quarter were 112 million as Gary discussed an increase of 19.2% from the same period in 2014. It also represents 18.4% increase from the second quarter 2015. Sales in the oil and gas market were essentially flat in the second quarter of 2015. We understand the concerns related to the oil field Genset market, the CapEx slowdown in the oils industry as widely known. However, we continue to sell into that market albeit at a more normalized rate. Our products offer significantly lower prior cost for our customers and the value pricing remains compelling. It’s worth mentioning that our exposure to the oil and gas market is related to the production segments rather than explosion segments.
+
+For the period, gross margin was 13.7%, lower results for last quarter and last year. As Eric mentioned logistics and supply challenges diluted margin meaningful as did 3PI’s losses. We are disappointed within our performance and recognize we need to improve. Although, we don’t give guidance to a specific gross margin number, our long term operating margin for gross margin is near 20%.
+
+Operating expenses were $13.9 million or 12.4% revenue. This is the higher percentage of revenue than the last year but below the second quarter. We continue to invest in R&D primarily for testing, certification, and leading more efficient revenue, that is nearly well spend.
+
+We continue to review our R&D investment to ensure that it will lead to commercialization within a reasonable timeframe. The total R&D expense was lower than the second quarter, but noteworthy it’s constant decline due to a research brand we received from the propane trade group, perhaps at that brand we sustained our investment in R&D at previous levels.
+
+Operating income was $1.4 million, down 82%. Operating margin was 1.2%. Obviously operating income was down due to the lower margin. Interest expense was $1.4 million, compared to $400,000 last year. The increase was due to the higher level of borrowing including senior notes we issued last quarter.
+
+Other income and expense includes the revaluation of our warrant liability. Our April 2011 private placement included warrants to liability for which we are required to carry on our balance sheet at fair value. Each quarter the reevaluation impacts to income statement.
+
+This is a non-cash item that impacts the bottom line. This quarter, we booked non-cash income of $8.8 million resulting from a decrease in an estimated fair value of the warrant liability, primarily due to the decrease in a share price. As in the past there were adjustments as impacted reporting GAAP numbers. The values of these warrants will continue to change until the expiration of the warrants in April 2016.
+
+We encourage investors to look at our results both with and without the warrant valuation in assessing our performance on a quarterly basis.
+
+The GAAP net income of $9.1 million or $0.03 per fully diluted share. Please keep in the mind the GAAP acquired removal of the warrant revaluation in calculating the earnings per share. Removing the effects of the warrant revaluation and transaction costs, the company earned $487,000 or $0.04 per share which compares to adjusted net income of $4.4 million or $0.39 per share last year. As Eric mentioned the 3PI loss has impacted our earnings by approximately $1.6 million on an EBITDA level.
+
+Now let’s discuss the balance sheet and liquidity. As Gary noted, our balance sheet performance was very good this quarter with improvement on our key metrics. We ended the quarter with $12.3 million in cash which is up over $6 million in the prior quarter. We’ve reduced DSO to 78 from 81 days and reduced inventory from 96 – 296 from a 142 days. On an absolute basis receivables were up 11.7 million, however inventory decline 18.8 and payables increased 3.2 million netting to a 10.4 million reduction in working capital. Combined operating cash flow was $15 million. Total debt is now 152.89 million or 46% of capital.
+
+Many of you have asked questions regarding our debt covenants, debt facility agreements are disclosed in our SEC filings in detail the metric calculations. Note that such retirement of our term loan in April 2015 with financial leverage covenant is no longer in use, only remaining covenant is a traditional fixed charge of trailing 12-month adjusted EBITDA, which allows for adjustments for the warrants, capital expenditures and miscellaneous other cost. As of September 30 measurement period, we are fully compliance with all of our covenants.
+
+Let me now turn the call back to Gary to discuss the outlook.
+
+Gary Winemaster
+
+Thank you, Michael. The third quarter had challenges that are reciting in operational improvements to support our growth. We are taking this opportunity to further develop our manufacturing processes and supply base relationships. Our team is focused on turning around the business of 3PI and we believe they are on the correct strategic and product design path.
+
+We are seeing a change in mix among our products causing us to focus on cost discipline to support improved margins. Again, I want to emphasis, the company’s ability to provide power with many types of fuel and our ability to provide solutions that are more affected and provide advantages not only in operating cost, but in packaged design emission management and on-cost, especially in on-road applications there our now an emphasis on alternatives to diesel due to the highly public PW issues. We are poised to support our customers as they shipped away from diesel to alternatives.
+
+With that in mind, any consideration of the general sluggishness in capital spending, our customers are seeing we are revising our guidance for the fourth quarter and for 2016. For the first quarter, we anticipate revenue in the range of $100 million to $110 million. This revision is primarily related to the lack of growth in oil and gas.
+
+For 2016, we currently expect sales to be in a range of $445 million to $465 million. This assumes a solid contribution in on-road and recovery in 3PI and oil and gas flat to slightly down. We also had new programs that are scheduled to start shipping in a large power gensets and material handling.
+
+Although in 2016 is likely to be a consolidation year for us. We are pleased that we will still see an opportunity for growth in a double digit even with the macro economic headwinds we face.
+
+Now let’s turn the call over to the operator for questions and answers. Operator?
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operating Instruction] We will take your first question from Rob Brown from Lake Street Capital Markets.
+
+Rob Brown
+
+Good afternoon.
+
+Gary Winemaster
+
+Hey Rob.
+
+Rob Brown
+
+Could you summarize again for us the number of on-road programs you sort of have underway and the ones that you think will hit in 2016?
+
+Gary Winemaster
+
+Well as we mentioned, we have two operating agreements today in China and we will announce two more next week in China, so that would be four. There is a fifth that we hope to announce in the near-term. And we have again in the North American markets we have both the Freightliner and Navistar relationships that are ongoing with a couple of others that are also going to be announced in the near-term.
+
+Rob Brown
+
+Okay, good. In those China programs what’s the timeline in getting those ramped and how do those play out?
+
+Gary Winemaster
+
+While the Yutong business has already started. The JAC business will start in December and then they will continue to ramp through 2016. The other two products will start probably in the – end of the second quarter and will continue to ramp going forward.
+
+Rob Brown
+
+Okay, good. And then on the gross margin improvement or getting your cost structure aligned down, how do you see that playing out, is it one or two quarter thing or is it wholly ramped throughout the year?
+
+Gary Winemaster
+
+Well the issues that we dealt, we already talked about on the call many of those have been really decided and fix, so I would say it’s within a quarter or two we would see improvement in the margins from those issues.
+
+Rob Brown
+
+Okay, great. I will turn it over.
+
+Operator
+
+We will hear next from Craig Irwin from ROTH Capital Partners.
+
+Craig Irwin
+
+Good evening gentlemen. Gary, in your prepared remarks you mentioned some of the discrete things that are likely to drive revenue growth, the resumption of revenue growth in 2016. Can you share with us, really what the big pieces are and whether or not are there any new incremental pieces to the growth strategy that you’re planning on executing on?
+
+Gary Winemaster
+
+Well, we do see – with 3PI, we talk about where we’re going to be for the fourth quarter. But we do have a lot of visibility on orders and how they’ll play out for 2016, so we see improvement there. We see improvement on the on-highway side, a significant improvement there.
+
+With PI being fully integrated now, I think that we’re going to leverage those relationships and offer expanded product offerings. We will see incremental growth in our forklift business which I think that is significant. We have a growing concentration in China in the forklift side. I think we have probably now six or seven new customers in the forklift side in China. And then we had a number of different power gen opportunities that will take on new relationships in 2016 as well, two significant ones that we hope to be able to announce in the next 30 days.
+
+Craig Irwin
+
+Great, thank for that. And then can you maybe expand on the – on the LPG and gasoline argument versus diesel and how the Chinese are seeing through – the small so to say in chosen clean field. How lone you’ve been working with them on adoption, these two new customers you’re going to announce during those days? How do you see them as customers compared to some of the conventional customers in the North American markets?
+
+Gary Winemaster
+
+Yeah. You know on the traditional diesel versus spark LPG arguments, we’re seeing in both the North America, and we are also seeing in China, and China is actually accelerated. So what’s driving adoption to alternative fuels is for a diesel system to comply with the increasing regulations we have things like SER, DPS they are expensive systems, Spark Solutions are fuel system lot less costly. Diesel engines, they heavy compression maybe up to 80 to 1 automotive type is Spark engines lower compression 10 to 1. So the engines weight a lot less and they are lot less costly. We can create customized solutions with typically with the diesel engine it just a few engines and you’ve got stick with that fuel.
+
+And then finally on the environmental side, what’s happening is diesel because the way the molecule is formed, it doesn’t get prudent and more CO2 and so as this VW stand all of the sudden in China, what words is mainly official were saying if reputable companies like Volkswagen are bypassing it we really have to clamp down on diesel on our emissions and on any one cheating. So there is a huge drive to clamp down that in regulations and but really to move away from diesel because, of those inherent problems created drag on diesels. So that’s really driving our new work in China and around the world.
+
+Michael Lewis
+
+And I think one of the things that is important to note is that all of our engines that we are – that we are providing can run on all three fuels that would be natural gas, propane, and gasoline. So, the opportunity to design one fuel and then wait for customers to come is not necessarily one of things that we’ve had to deal with – what we’ve been able to do is going and make a very strong commercial agreement for our story about the fact that we provide this greater range of opportunity and we see much more quicker adoption through that process.
+
+Craig Irwin
+
+Thank you for that. And then last question if I may. So talk you to some of the components guys out there. There is a not whole lot but people are excited about these days, but they seem to be excited about something that PSI is doing, potentially during the oil and gas market, but might grow the available opportunity for the company very significantly. If there is reason in this product plan over the next several quarters that we could see something that supplement the growth rate quite significantly to backfield some of the weakness we’ve seen in that market?
+
+Gary Winemaster
+
+We are adding additional products that will get into different segments of that market. We’ll have the larger engine line. I mean the 4000 series that has been delayed. We hope to have that finally in the second half of 2016 and we will announce a new product that will sit right on top of our existing product line at 550-kW and we will show that at the up and coming Power-Gen show in December.
+
+So I think we’ve expanded the product line and $25 million of our guidance for 2015 was really the Perkins 4000 series, which we were not able to get finished because of some supplier challenges. But that being said we’ll retrench and finish that product in 2016 and we will add a significant power node to our existing product line.
+
+Craig Irwin
+
+Great. Thanks again for taking my questions.
+
+Gary Winemaster
+
+Thank you, Craig.
+
+Operator
+
+We’ll hear next from Eric Stine from Craig-Hallum.
+
+Eric Stine
+
+Hi, everyone. Thanks for taking the questions.
+
+Gary Winemaster
+
+Hi, Eric.
+
+Eric Stine
+
+Maybe just starting with the school bus, maybe you can just talk about the initial traction you’re seeing there interest from fleets and how you expect that to play out over time?
+
+Gary Winemaster
+
+Well, I think the one thing that has been very significant on all of the customers the large fleets that have driven the vehicle; they have been very impress with the performance. I think that one of the things that has been, I think, slowing some of the uptake in this propane segment has been the fact that diesel outperformed the propane engine. And I think R88 will give similar performance to the diesel options that are being sold and at the same time it will be a much cleanest environment for school kids.
+
+I think then when you look at the overall cost to put a propane engine versus the diesel engine into a school bus, and then you take in the environmental improvements and I think it is just a general greenfield for that segment.
+
+Today, we’re at 12% of the $700 million market. I think it’s reasonable to think that market could get as high as 30 or 40 or 50 or even higher than that as we go forward. So I think there is significant growth there and right now we’re doing a lot of drives that putting people in the bus, comparing our engine to its competitive diesel offering, and letting them make those decisions and the results have been very favourable. And we hope to demonstrate that at our Analyst Day on 17. So I think that’s something that will be very exciting for people to actually ride in a bus and see those types of performance advantages.
+
+Eric Stine
+
+You mentioned the interest within your engine used in gasoline is a School Bus market a market that gasoline could be a meaningful part of as well or do you think it is more propane?
+
+Gary Winemaster
+
+Well I think its propane. I think all the markets there is a gasoline opportunity. We believe that there is a gasoline offering opportunity in every segment today. I think that’s been a big advantage for us over companies that just strictly offer CNG. Because we go in and if there is a substantial market today on gasoline, we go in and get all the design work done, get all the integration work done and then give the company the opportunity to offer all three fuels and let the market come to them.
+
+So I think that is a huge advantage for us. And I think that we’re seeing a much more open position in all of the engineering departments that are resource restricted, they’re still willing to make those investments for our product where some of the other single fueled options are seeing delays.
+
+Eric Stine
+
+Got it. Okay. May be just on 3PI little bit, clearly you are confident in getting to that EBITDA breakeven level, just can you talk about some of the things you are seeing early and in the quarter that give you confidence there and then maybe just an update. I know part of the outlook was large customer I believe it was GE and just thoughts on them reengaging in 2016?
+
+Gary Winemaster
+
+Yes. I will break it up into two pieces. One the fourth quarter and then why we’re excited about 2016.
+
+For the fourth quarter we are seeing much higher revenue and we are expecting one of the highest revenues likely in the history of the company there this quarter. And at the same time, we are doing quite a bit in driving down our cost; basic costs that we talked abut before reengineering product we are just making that we engage with our purchasing groups here and finding opportunities to take out cost. So, that’s – that’s why we are excited.
+
+And then I think now we have the right team in place and the right plan and there we are confident they can execute on that. So not this quarter, but we are moving forward, important thing is where does it go for the future, 2016 and beyond. And for there we do have our large customers like TD coming back in the market and they are already placing purchasing orders with us.
+
+We do have new customers as well. We do have new focuses. We also have a lot of really exciting markets where, we are really one of the fewer or only the ones able to give those designs. So for example CHP is very exciting, that’s Combined Heating Power.
+
+Right now we are in the U.S. with the aging infrastructure, cheap natural gas and incentives both federal and state levels to have high efficiencies in CHP, it’s a golden opportunity and we are seeing a huge demand for CHP right now. But it would be a very complex systems, we are really one of just a few in some cases the only company able to put those together. On top of that, in the future we do have some exciting partnerships to announce there.
+
+And then even on other energy developments, we mentioned solar and wind, those are exciting because with the growth of solar and wind it helps PSI in two ways, one the solar and wind the renewable energies they are accounted and they are intermediate and they are unstable. So we have to add some reliable engine peak power to stabilize the grids, so that drives additional business for us. And then plus, few hours actually building power conversion systems, our full wind and solar system, so many of the energy trends and efficiency trends and regulations you see in the power markets are directly benefiting 3PI.
+
+Michael Lewis
+
+I think that one other thing that it is very important as some of these large jobs get laid; the packaging is becoming a much more important part of that decision process. So the highly engineered solutions at 3PI is capable off is really to driving force behind the acquisition that we had. So what we’ve done is we’ve reestablished all those relationships and we’re driving the company to be a more highly engineered company and for going some of the commodity type packaging that drifted into the equation.
+
+So I think we’ve reset the business. I think we’re now in a good position to establish with some very, very solid customers and I think there is some significant partnerships that we have and that we’re going to announce in the near-term.
+
+Eric Stine
+
+Okay, got it. Moving just last one from me, just a clarification, so 2016, it sounds like oil and gas, you’re thinking that’s flat to down a little bit, so I would assume that the Perkins engine if you get anything from that in 2016 that would be upside?
+
+Gary Winemaster
+
+Yes.
+
+Eric Stine
+
+Okay. Thank you.
+
+Operator
+
+[Operator Instructions] We’ll hear next from Greg McKinley from Dougherty & Company.
+
+Greg McKinley
+
+Yes, thank you. I wanted to maybe understand how you look the different end markets in your business and the context to your guidance? Could you maybe give us a little bit of commentary on what are you – what are now your expectations for the base oil and gas business for 2015?
+
+And then as volumes – sales volumes are bored now for 2016 than it was originally expected. How do you fix cost in the manufacturing process play role in the margins of the business? Are they meaningful or relatively immaterial in terms how we should think about gross margins?
+
+Gary Winemaster
+
+Greg, you know, historically we haven’t detailed out each of the forward guidance on segments, but I can tell you is the majority of the growth we see is coming from on-road. And again many of these programs – Gary, already alluded to and talked about we’re going to see revenue generation from those into next year. And again, remember historically to effect last year on higher revenue – so that might be the largest part of our growth. There will be some other incremental programs we have in different segments. And I think as those come-up, we will start to announce those programs. A few of them there is two exciting programs in core energy markets and power generation markets and others. But just for confidentiality reasons we can’t announced now but they will be announced in the first half of next year.
+
+And then finally on, how does fixed cost impact the margins as we grow? The majority – the vast majority of our cost are variable in nature. So, you really get some absorption of fixed cost and they will incrementally help the margins. But we don’t see to a significant degree. We see increase in the margins is really driving for higher value added solutions and then continuing to bring out the supply chain, improve the production processes and so on. On the operation level is going to get up fast improvement. So if you look at the drop in gross margin, I’d say that was associated with efficiencies, obviously you talked about GPI, but as we start to roll into 2016, a on-highway come online. Those on-highway opportunities are at all dozers at significantly higher margins and we’ve been accustomed to in industrial.
+
+So that gets us some supports on our 20% goal, gross margin. We are giving a flat to slightly down on-highway which is significantly more than 20% goals that we have. So we feel the ability to get back to our target and I think that what we’ve experienced in Q3 was nominally, where we made those corrective moves to address that. And I think we are confident as we go forward we’ll turn back to the 20% target that we set.
+
+Greg McKinley
+
+Okay, thank you. And then within oil and gas, is there independent of your cost to the product given what’s happening in that market is, are you seeing any pricing pressure on those products that are impacting product margins in that segment, or you’ve been able to sort of hold on to that. I think it’s historically been a higher margin category for you?
+
+Gary Winemaster
+
+We will hold on to that margin. We still have operating benefits that provide very short-term payback on converting from diesel to wellhead fuel. So I think that there is a still a compelling argument that says, it’s the right solution if there is a solution. When you see the market where is at today, I think it’s more of a demand issue then it is a margin issue. We feel very confident that we’re not going to have to buy any business. I think as it migrates back into some reasonable flow at some point, we’ll be able to maintain the margin position that we had.
+
+Greg McKinley
+
+Thank you.
+
+Operator
+
+We’ll move next to Liam Burke from Wunderlich.
+
+Liam Burke
+
+Yes. Thank you. Good evening. You mentioned earlier around 3PI that the push out or the revenue growth be generated from highly customized solutions and then the elimination of the more commoditized product line, as you go down the different product launch you do have, do you see any need to do that in anywhere else or do you feel comfortable that we have a high degree of customerization where you can maintain margin here.
+
+Gary Winemaster
+
+No, we can maintain margin. I think the one thing about 3PI, it was a little bit outside of our annual – historical expertise. As we started to trend into some larger engines, it was really a strategic play for us. But the whole large engine business is probably a five-year phenomenon for the company. We look at the other segments that we’re operating in on the industrial side, we’ve been doing that since 1985.
+
+So, we feel very confident that it will position in all those other segments on highway. We’re going to start off with margins that are better than our goal and I think that as those volumes ramp up, we’ll see the benefits of those. I think, historically, we’ve been very, very good at driving cost out of early immature products. So as we start to drive volume into the system, our whole procurement team will work very hard to take advantage of those volumes and get the even further margin enhancement as they go forward.
+
+Liam Burke
+
+Okay. Great. You did discuss the fact that the percentage of your high variable cost business in general. But with the revenue ramp do see any needs for any incremental capital projects to support the growth?
+
+Gary Winemaster
+
+The capital projects we don’t see the need for Y capital projects in terms of basic production operations. One of the nice things we do in our business is that the relatively low amounts of CapEx we can scale up and produce more units. So from a production standpoint, there is really no need. And again, very small part of our CapEx every year is maintenance CapEx anyways.
+
+The only that we do see the need for investment is going to be for new customer projects and new solutions, but the thing there is that its really to support customer programs or future growth. So we’ll make those -- really that we don’t think those as expenses, we look at more as an investment and we only make investment if it hits in certain appropriate rate of return.
+
+Gary Winemaster
+
+Great. Thank you very much.
+
+Operator
+
+Alex Potter from Piper Jaffray your line is open.
+
+Alex Potter
+
+Hi, guys. If you could give an organic growth rate in year-over-year terms I would say what are acquisitions in there? Just trying to strip all the acquisition and look at the pure organic growth rate year-over-year?
+
+Gary Winemaster
+
+Yeah. We don’t – it really depends on the timing, but we don’t -- we are not looking at it right now year-over-year or characterizing it for the organic growth rate.
+
+Alex Potter
+
+Okay. I was wondering if operationally, if you could shed some light on how the China demand will be serviced. You mentioned you’ve got other systems new forklift customers over there, lot of on-road activity, how much of that is going through the joint venture that you have in China versus out of Wood Dale?
+
+Gary Winemaster
+
+Yeah. I will take it. So, I’ll start off and then Gary might trend in. So there is really kind of two main buckets right now we are seeing demand for. One is on the forklift side and that’s going through the joint venture and that’s the joint with MAT and those historically will be serviced by the different forklift OEMs, those means.
+
+And then on-road is the other opportunity and that’s coming direct from PSI and that’s not going through the joint venture. And so when we sell these units to these on-road Chinese OEMs, they have their own service partnerships. But in addition to that, we are also supporting them and that we have the ability to stock parts and other supplies there for them for local active market and support services.
+
+Alex Potter
+
+Okay. And those will be PSI Engines as opposed to PI Engines you mentioned there are lot of the – or some of the leads came from PI is that based on the engines that they have had prior or is that based on the A8 or some of the other?
+
+Gary Winemaster
+
+Yeah and so if you are talking just strictly in China, its going to be a combination – when we talk about PSI, we talked that as one company now, but some of them will be from PI, and some of them will be from PSI, it won’t be the eight, but it’s going to be six liter engine, the 4.8 liter engine or 8.8 engine. There are certain customers that – let’s say PI might have sold them six liter engine and that problem going on. We’ve got customers that we are selling 4.8 liter engine and that some that we’re doing jointly. So for our standpoint whether it comes from PI or PSI, at this point it solved the same consolidated company.
+
+Eric Cohen
+
+So Alex there is a great deal of opportunity there and today what we’re offering primarily into the customers that we’ve announced is the GM six liter and 4.8. We have opportunities to spread out inside of those companies and offer other products. Our 8.8 liter will be on the larger side of their delivery vehicles with all of the fuels that we mentioned and that we also have a V6 4.3 liter that we will offer into a number of different applications for Sprinter and other products like that that need a gasoline, initially a gasoline offering.
+
+So you know the volumes of those products and I would tell you that if you look around the world and evaluate what other companies have products that fit those requirements at the price point that we’re talking about, I would say that that is a very finest.
+
+Alex Potter
+
+Okay. Thanks guys.
+
+Gary Winemaster
+
+Thank you.
+
+Operator
+
+[Operator Instructions] We’ll hear next from a follow-up from Greg McKinley from Dougherty & Company.
+
+Greg McKinley
+
+Yeah. Thank you. Eric, I just wanted to make sure I understood in your prepared comments you’ve talked about some of the gross margin puts and takes you identified 3PI, but then you suddenly just talked about supply chain. I am wondering if you could help us better understand was it – were there challenges around sort of flow of parts into the plant and I guess ramping up and ramping down per production of the plant rebate at labor that cause? I just want to make sure I understood that. And then how and why that’s stabilized in Q4? Thank you.
+
+Eric Cohen
+
+Yeah. As you know we have very dynamic program with new customers and some of these demands it goes from prototype to ramping up the demand pretty fast. And so in order to meet some of the customer timelines there is time where we had to expedite parts of bringing parts to ramp-up pretty fast, and that does create some inefficiencies. Also we’ve got into new programs with some customer’s, they had some unique testing requirements and other requirements on us that we had to kind of get used to the process, you know, when you first start on these programs it might take you a while to debug let say the testing systems rather processes, what we want to do is we want to make sure that we get it right. And so we’re really focused on getting out a quality product when as you debugging as you ramp-up then you can really make that process efficient, make the labor what it has to be and really make the supply chain as efficient as possible. So it’s just more of a natural function of as we ramped up new programs and try to meet customer demand.
+
+Greg McKinley
+
+Very helpful. Okay. Thank you.
+
+Operator
+
+We will hear next from Christopher Crum from Aylstone Capital.
+
+Eric Cohen
+
+Hey, Chris.
+
+Operator
+
+Mr. Crum your line is open. We’ll check that line. At this time there are no further questions in the queue.
+
+Gary Winemaster
+
+Okay. Thank you, operator. Before we conclude, let me again encourage you to attend our upcoming Analyst Day. The meeting is next week Tuesday November 17 at our headquarters in Wooddale Illinois. That day we’ll feature presentations by all of our senior management team, facility tours and hands on demonstrations of our key end market applications. Most of you should have already received invitations, but if you haven’t please get call out and get the information.

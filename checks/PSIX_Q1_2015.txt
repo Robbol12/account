@@ -1,0 +1,599 @@
+Thank you for standing and welcome to the Power Solutions International First Quarter 2015 Earnings Conference Call. [Operator Instructions] Please keep in mind that this conference call is being recorded. A replay of the call will be available for approximately 1 year on Investor Relations portion of Power Solutions website at www.psiengines.com.
+
+By now everyone should have access to the earnings results press release that was issued after market close today. If you have not received the press release, that is also available on the company website in the Investor Relations section.
+
+Speaking on the call today are Gary Winemaster, Chairman and Chief Executive Officer; Eric Cohen, Chief Operating Officer and Daniel Gorey, Chief Financial Officer.
+
+Please be reminded that the information in today's press release and remarks made by the executives on this call, may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These statements are based on information currently available to the company and involve risks and uncertainties that could cause our actual financial results, performance, prospects, and opportunities to differ materially from those expressed in or implied by these statements. These risks and uncertainties include, but are not limited to, the factors identified in the news release and in filings with the Securities and Exchange Commission. You may access any of these filings at www.sec.gov.
+
+Please note that the information provided on this call should be considered current only as of today. Except as expressly required by the federal securities laws, PSI undertakes no duty to update that information.
+
+With that, we will now turn the call over to the Company's Chairman and CEO, Gary Winemaster.
+
+Gary Winemaster
+
+Thank you, Shannon and thank you everyone for joining our call. I want to start the call by reviewing our major strategic developments. Then our COO, Eric Cohen will offer more detail on our Q1 operating highlights. Our CFO, Dan Gorey will discuss the details of our financial results and then I will conclude with the discussion of our outlook.
+
+First let me say that I'm proud of our strong execution delivered by PSI team this quarter. In an environment that was more than challenging as usual, we delivered revenue growth of nearly 30% and achieved our profitability objectives. We did this while also making a major strive to improve 3PI.
+
+Our executing two important acquisitions and further solidify our leadership position in our industry. Let me turn to the most recent acquisition. The agreement to purchase Powertrain Integration, which we announced earlier this week is an important strategic deal for us because it strengthens our ability to penetrate the on-road market.
+
+PI is a 10-year old company who's focused on alternative fuel engines for on-road has led the great success. PI sells a full power train solution featuring GM 4.8, 6 liter and 8 liter displacement engines. Their engines address the sweet spot of the medium duty Class 4 to 7 truck market.
+
+Enabling one to sell to industry leaders such as Freightliner and Thomas Built Buses. We are very impressed with the engineering talent and strategic sales capability of PI. And look forward to the contribution it can make to our combined efforts because both our companies are GM on-highway OEM's. This combination also strengthens and clarifies the relationship with them.
+
+In particular, our communication to them about the needs of our markets will be unified. In GM, will have no conflict in deciding, who to contact regarding new sales opportunities that they uncover. PI's partnership with Freightliner is especially important to us. PI has a multi-year agreement to supply power trains to Freightliner Custom Chassis Corporation or FCCC. They're an OEM to major fleet customers such as UBS.
+
+Last November, PI announced that through FCCC it delivered a 1,000 propane packages to UBS. Furthermore, PI, GM, 8 liter, V8 LPG engine will be complementary to our 8.8 liter and further extend the partnership with Freightliner. Freightliner uses the GM 8 liter to power their S2G medium duty truck platform
+
+In addition to the Freightliner relationship, we are excited about how this deal positions us within the School Bus market. As you know, we have a very good relationship with Navistar and its IC Bus division. Which we expect to be generating meaningful revenue this year. PI has a strong relationship with Thomas Built Buses, which is a division of Daimler Trucks North America.
+
+Together, we have customer relationships that cover a large share of the North American market. Based on publicly available reports, we believe the engine market for school buses is around $700 million annually. The alternative fuel engine currently capture about a little more than 10% of that, this market interest remains high in alternative fuel engines, especially propane.
+
+We believe that penetration rate can increase significantly in the years ahead and that together with PI, we can capture our large share of that growing propane and CNG fuel market. Furthermore, we have not even discussed opportunities outside North America such as China, which are very real and could offer additional growth down the road. All in all, the school bus opportunity and are now stronger position to address it are very, very exciting.
+
+So looking at this deal overall as a combined entity, we believe we will be a dominant player in the alternate fuel engines for medium duty for years to come. The deal greatly accelerates our penetration of this market, which as you know, should be a major source of growth over the next few years.
+
+The PI deal follows our acquisition of Buck's Engines towards the end of the first quarter. Well not as strategic bringing Buck's under PSI umbrella also extends our product line creates new customer relationships and offers a number of cost synergies as we consolidate production.
+
+Now let me turn the call over to our COO, Eric Cohen to discuss some additional Q1 operating highlights. Eric?
+
+Eric Cohen
+
+Thank you, Gary. I will briefly touch under elements of 3PI and conditions in our industrial markets and then we'll turn the call over to Dan for financial results. Beyond the important initiatives Gary covered, a key focus in the quarter was to drive improvements at 3PI, we hired the new COO for that group, Tom Smith and he's off to a great start.
+
+Tom's background is perfectly suited to drive growth at 3PI. He's worked in the energy industry for over 30 years focus mostly on green cogen and distributed generation systems. His entrepreneurial instincts are strong and having founded and sold two power service companies. He's already making an impact using his network to bringing business, his expertise in combined heat and power cogen is also creating new opportunities for 3PI.
+
+We expect cogen systems to be a robust opportunity for 3PI in the years ahead and see that market starting to develop now. Within this 3PI operations, we are very excited about progress we made this quarter. We completed major project redesign and now applying to patents for many of the innovations. The first time, 3PI's attempted to patent its work. We've created a module of design that enables us to do a customization for which we are known more quickly and efficiently.
+
+We believe we can reduce the cost of our systems by 20%, with this new design. Customers certainly appreciate the benefit since our affording levels continue to ramp with quotes and proposals again far ahead of last quarter. Turning to our core industrial markets, we continue to execute on our growth opportunities including oil and gas.
+
+It is reality that the plunging oil prices last year is causing a slowdown in this end market. [Indiscernible] customers is that lower price mostly impacts exploration, while production is impact less by lower prices. This is because the cash operating cost of the product wells fairly low and does not make economic sense to stop production until cash flow from the well falls below the very well [ph] operating cost.
+
+This is in fact, what we're seeing in the energy industry. Rigs are being taken offline and exploration has slowed significantly, but production is not slowing as much. As long as flare gas is available the economics of using it for microgrid power is compelling. Furthermore, there is no more [indiscernible] on environmental regulations that will require reductions in flaring.
+
+Having said that, to purchase a PSI power gen set is a capital outlay and the oil field customers are getting back CapEx budgets in the face low cash flows. Our gen set customers are reporting some slowing of the exceptional momentum we had in this market over the past two years. Our outlook for oil field sales is still very positive over the long-term as it is hard to argue with the economics of free fuel.
+
+However, in the near-term we expect this market to flat now for a while. We all know the duration of this pausing growth of course, but we're encouraged by recent strength in the oil price. I also want to touch on the forklift opportunity since the NACCO Material Handling deal is expected to contribute to our growth this year.
+
+We have drawn down their old inventory of Mazda engines and are at full production with our engine now. Finally, we continue to optimize our product sourcing. We are working our top suppliers to implement vendor managed inventory and countdown programs. This will significantly reduce our inventory levels while doing a suggesting time access to components, to better respond to customer demands.
+
+I'll now turn the call over to our CFO, Dan Gorey to discuss our financial results in detail. Dan?
+
+Dan Gorey
+
+Thank you, Eric and hello, everyone. I'd like to review our operating results and financial condition in more detail and then return call to Gary for our outlook. Here's the details of our first quarter 2015 financial performance. Net sales for the first quarter were $86 million compared to $67 million last year. This represents 29% increase in revenue from last year.
+
+We saw strong sales growth in several areas of our business. Our heavy duty power generation systems continue to be a strong growth trend in the quarter. Material handling also delivered strong sales growth in the first quarter. The acquisition in Professional Power Products, which was affected first of last year contributing about $5 million to our sales growth in the quarter.
+
+The aftermarket was also a notable contributor to sales growth in our first quarter. Organic sales growth excluding the 3PI and Buck's acquisitions was 20% in the quarter. Our gross margin for the first quarter was 19.1% compared to 17.9% in the first quarter last year. This increase in gross margin was principally due to the higher level of heavy duty engine sales.
+
+Sequentially our gross margin decreased from 20.3% achieved in the fourth quarter due to fixed cost absorption on a different level of sales. Operating expenses which include research and developing, selling and service and general and administrative cost came in at $12.4 million for the first quarter as a percentage to sales, operating expenses were 14.4% of sales this quarter.
+
+This compares to last year's 12.6% sales. R&D spending in the quarter was $5.2 milling up from $3.6 million in the first quarter last year, as we continue to make significant investments in R&D spending both for off-road and on-road applications.
+
+Selling expenses in the current quarter was $2.8 million compared to $1.8 million last year. Which was directly related to our increased sales volume as well as the acquisition of 3PI? General and administrative expenses was $4.5 million an increase from $3 million last year due mainly to additional G&A expenses related to 3PI.
+
+G&A expense in the current and prior year quarters include transaction cost of $200,000 and $811,000 respectively. Operating income for the first quarter was $4.1 million from $3.5 million last year. Operating margin was 4.7% in the quarter compared to 5.3% last year. Operating margin after adjusting for the transaction cost I just mentioned were 5% and 6.5% respectively.
+
+Interest expense was $489,000 in the current quarter compared to $99,000 last year due to the higher level of borrowing means to fund working capital as well as 3PI acquisition. Other income expense includes evaluation of our warrant liability, our 2011 private placement warrants to liability for which we are required to carry on our balance sheet at fair value. Each quarter the change in value must be run through the income statement.
+
+This is a non-cash item that for GAAP accounting purposes impacts the bottom line. This quarter, we booked non-cash expense of $3.6 million resulting from an increase in the estimate fair value of the warrant liability. With values of these warrants will change regularly, so you should expect to see valuation adjustments both positive and negative in future quarters.
+
+Therefore, we encourage investors to look at our results both with and without the warrant revaluation in accessing our performance on a quarterly basis. The GAAP fully diluted loss per share was $0.13 in the current quarter compared to income per share of $0.19 a year ago. Removing the effects of the warrant revaluation and the transaction cost, the company earned $2.3 million or $0.20 per share in our current quarter. This compares to adjusted net income of $2.6 million or $0.24 per share in our first quarter of last year.
+
+Now let's discuss the balance and liquidity. The balance is solid with $138 million in working capital which includes about $10.2 million in cash. We have about $90 million in shareholders' equity. During the first quarter, we requested and received an increase in our credit facility from Wells Fargo Bank $225 million from a $100 million.
+
+Debt facility had borrowings of $102 million at the quarter end leaving $22 million available. We are in good standing with the bank and compliant with our covenants. On April 29, the company issued $55 million and unsecured 5.5% senior notes due May 1, 2018. This debt along with our bank credit facility gives us the resource to fund along near-term operating in capital needs.
+
+That concludes my comments, let me now turn the call back to Gary to discuss our outlook. Gary?
+
+Gary Winemaster
+
+Thanks, Dan. Our results this quarter give us confidence in our outlook for 2015. To incorporate the expected sales from the PI and Buck's acquisitions. We are raising our full year 2015 revenue guidance to the range of $500 million to $520 million. We're also raising our previously issued 2016 guidance to the range of $630 million to $670 million. Our confidence in our annual outlook is driven by the opportunity to see in the on-road and our strengthened position with PI deal.
+
+Having said that, we expect our sales rose in 2015 to be skewed to the second half of the year. As Eric mentioned, we're experiencing moderating demand growth in oil and gas. Which was a strong growth driver in 2014 because of this, we expect second quarter revenue to be in the range similar to what we achieved in the first quarter. This still represents growth over the second quarter of 2014.
+
+Now let's turn the call over to the operator for question-and-answer session. Operator?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] and our first question comes from Colin Rusch with Northland Capital Markets
+
+Colin Rusch
+
+Can you just talk about what the Powertrain Integration acquisition is really signifying for your opportunity with delivery fleets besides UBS?
+
+Gary Winemaster
+
+Well to position that, Powertrain Integration has. I mean they have a longstanding relationship with Freightliner. Freightliner is the largest player in that industry. So it gives us a larger platform to make fleets deliver products to those fleets. So we're very excited about that. It really gives us a greater position in the overall market. But it really solidifies the relationship with Freightliner which is PI has done a very good job with.
+
+Colin Rusch
+
+Okay and any update on the expected cadence of the Navistar order for the 8.8 liter?
+
+Gary Winemaster
+
+Well we believe, we start seeing those in coming in July.
+
+Colin Rusch
+
+Okay and then two more quick ones, how do forklifts sales to Hyster-Yale ramping versus your expectations?
+
+Gary Winemaster
+
+The forklift sales for Hyster-Yale are right on track to what we expect. We have good visibility and everything is tracking to point.
+
+Colin Rusch
+
+Okay and then one last one from me. What's your current run rate for oil and gas? You've power generation and how do you expect that to turn through the rest of the year.
+
+Gary Winemaster
+
+We gave some guidance of $150 million versus $124 million of last year and believe that number is still on track.
+
+Colin Rusch
+
+Okay, great. Will take the rest [indiscernible]. Really appreciated.
+
+Operator
+
+And our next question comes from Craig Irwin with Roth Capital Partners. And please check your mute function, your line is now open.
+
+Craig Irwin
+
+So this quarter that we're in now is going to see a material benefit and material impact from your transition at NAACO moving from the Mazda engine to your own engine. Can you maybe discuss for us, what this looks like from a gross margin perspective whether or not those an environment impact and how we should we modelling this?
+
+Dan Gorey
+
+Well Craig, we started ramping up with the expansion in the first quarter. So I don't really view any of the subsequent quarters being effective much one way or the other in an unusual way right. So it blended in Q1 and it will continue on. As we've discussed before, forklift business tends to have lighter margins below the corporate average and that is the case. That's been factored into our thinking relative to how things play out this year.
+
+It's our belief that, at $500 million in [indiscernible] getting mix of business that we anticipate having, that we're going to have fairly consistent margins with last year.
+
+Craig Irwin
+
+Okay, thank you for that. The next question I had was, your acquisition of Buck's. Can you describe for us, the benefits of this acquisitions. How you're going to see this playout, whether or not the customers the Buck's previously was serving had a greater revenue potential for PSI? Now that you've been working on the integration for a while.
+
+Eric Cohen
+
+Yes, so Buck's really we kind of look it as a add on, the immediate benefits is, we were competing with Buck's was one of the few industrial companies that was able to off gain [indiscernible] engine in the industrial space. So we've been able to eliminate a competitor on top of that. they service the whole series of customers that had specific niches and needs and we quite frankly were not experts in servicing those areas and Buck's had a very good relation as well as products and ability to components that allow them to service those customers.
+
+So during the acquisitions, we pick up not only additional products and components. We picked up a whole new series of customers that we really had difficulty servicing before. So and finally, with Buck's team we're able to make some improvements into their existing products with our engineer and some of our resources. So it's really, benefit not like to us, but we think the customers for Buck's will gain through acquisitions.
+
+Craig Irwin
+
+Great and then last question, from me. Some of the other industrial companies out there are talking about impact from the port inefficiencies in the quarter and the ability to access components necessary to finish products for delivery. Did you see any impact from the inefficiencies at Long Beach and maybe could you quantify, if there was an impact?
+
+Gary Winemaster
+
+We did not experience the impact, what we do. we spend a lot of time in our supply chain as we talk about in earlier calls making sure that we not only source globally, but we have a very in depth process of certifying our suppliers scheduling making sure that we have enough buffer inventory, all other systems in place that we would try to avoid some of those disruption. So, we did get hit with some disruptions internally because of the issues going on Long Beach. However, we did not - redundancy and robustness in the system that we were able to weather those without any significant impact to our customers.
+
+Craig Irwin
+
+Great that's good to hear. Thanks again for taking my questions.
+
+Operator
+
+And our next question comes from Rudy Hokanson with Barrington Research
+
+Rudy Hokanson
+
+Couple questions on the financial side and then one more on the macro business side. I was wondering, with the R&D you got up to 6% of revenue which is considerably higher than your normal run rate. I was wondering if with the businesses you're looking at right now, if we should expect R&D to continue to be more in the 5% to 6% range rather than 4% to 5% range.
+
+Dan Gorey
+
+Rudy, I really believe that we're going to have add scale right at volume. We're going to be at about 4% to 5% around. If you really look at Q4 R&D, it's very similar to our Q1. So we're at kind of consistent run rate and as we ran into the second half, you'll start to see both percentages drop again down in the 4% to 5% range.
+
+Rudy Hokanson
+
+Okay, fair. In other words, to look more the absolute number to start with right now, when you're looking at the comparison for first and fourth quarter and that it may stay at about $5 million range and that by itself is sales ramp up, will drop the percentage, is that the way to think about rather than just set percent each quarter?
+
+Dan Gorey
+
+Yes, I mean I think of it as a percentage, the realistic, due to the ramp that we had this year. You're going to see somewhat of consistent percent of sales in Q2 and then you're going to start to see the declines. So when we blend it off over the year, I think that will blend off for about 4% to 5% of broad range.
+
+Rudy Hokanson
+
+Okay and thank you. And on the gross margin side, Dan you're talking about the fact that in the cost of sales, there were a number of fixed cost I believe that were being up short. How should we think about that in terms of opportunities on the gross margin going forward?
+
+Dan Gorey
+
+Yes, I think the margins is again, again it's going blend in kind of consistent with where we came in last year. there is a fair amount of and again we haven't done the full amount our modelling yet given the recent acquisition that we have, Rudy but my general sense is that, we should blend in and be somewhere in that same range as we did last year. I don't expect to see any, I would expect the second quarter to come in somewhat similar to where we came in Q1.
+
+Rudy Hokanson
+
+Okay, thank you and then just again sorry just another line item. On general and administration expense, was the $200,000 that was mentioned in the press release was that in general and administrative expenses?
+
+Dan Gorey
+
+It was, yes.
+
+Rudy Hokanson
+
+Okay, so basically back that out and we have a rough idea of what the run rate would be?
+
+Dan Gorey
+
+That's correct.
+
+Rudy Hokanson
+
+Okay, thank you and then on the macro side. Eric, you were talking about the fact that, with the price of oil being where it is and with the fall off of new drilling activity, there is a hesitancy to interrupt any production right now and that, did I understand you correctly that even though there are number of economic benefits to using the gas power generators in the field that the disruption to the production is causing that adoption to slow, is that correct?
+
+Eric Cohen
+
+Rudy, not exactly. The point is, we were receiving growth from both displacing diesel on the production side and using flare gas for that as well as on some on the exploration side and what we were saying is with oil prices. The rate of growth on people doing wells on exploration that demand is slow or if you look at our market just the million wells out there, a large shares are not producing wells and we just still have a small share of that, majority of those wells are still using diesel. And so, we're really a cost to reduction play in any environment as long as those wells are operating because regardless of where the price of diesel goes, free flare gas is still cheaper than the price of diesel.
+
+So we still have a very large runway and opportunity to displace the diesel that are out there using free well and that gas, on top of that I touched on those microgrid opportunity. We have areas in the country where electricity prices in the oil and gas or even outside oil and gas, might touch $0.16 to $0.18 per kilowatt using our engines. We have opportunities to roughly produce electricity in half that amount especially if you're using the and obviously with the flare gas a lot less.
+
+So we're seeing opportunities just surely as a cost reduction play for our systems in this environment as well and that's why we feel confident that, we still have growth it might not be 100% growth like last year, but we're still bullish and we're still confident that the only that sector will grow up for those.
+
+Rudy Hokanson
+
+Okay, so it's not like it's going to go in reverse, it's just that the growth slows probably, I mean still double-digit, but not at the hyper rates that it was doing in first several years or in last several years, is that correct?
+
+Gary Winemaster
+
+Yes, last year we had a 100% growth in that sector and we're looking at somewhere around 20%.
+
+Rudy Hokanson
+
+Okay, thank you very much. Those were my questions.
+
+Operator
+
+And we'll move next to Greg McKinley with Dougherty & Company
+
+Greg McKinley
+
+I apologize if you already said this because my phone cut off for a little bit, but in your guidance could you walk through with us how much is it should be, both from a revenue and I don't know if you're think about from an EBITDA perspective to your two acquisitions and when does the PI acquisition close?
+
+Gary Winemaster
+
+Greg, we would the PI acquisition to close within the next 30 days or sooner.
+
+Greg McKinley
+
+Okay.
+
+Gary Winemaster
+
+And the increase in the guidance was a direct reflection on that acquisition.
+
+Greg McKinley
+
+Okay.
+
+Gary Winemaster
+
+Did I answer your question?
+
+Greg McKinley
+
+Yes. I don't know and perhaps you don't, maybe don't want to get into this level of detail, but can you comment at all on revenues associated with each of those individual companies. So we can get a sense for acquisition driven growth versus organic or how are you, how are you messaging that?
+
+Dan Gorey
+
+[Indiscernible] would be, the PI acquisition and PI revenue with current revenues of being around $39 million.
+
+Greg McKinley
+
+Okay.
+
+Dan Gorey
+
+And depending on when we close on the deal, we factor again, we factor the percentage of that into our guidance for 2015.
+
+Greg McKinley
+
+Okay, that's helpful. Thank you and then how from an EBITDA standpoint are these business that will be EBIT to contributors to you guys this year or how should we think about profit contributions?
+
+Dan Gorey
+
+You know operating margins were around 8% and I think EBITDA around a little higher than that and clearly, accretive certainly from a cash perspective and I think we've got a lot of work for us to do right on the GAAP side of things, but I would say it's going to be EPS GAAP accretive as well.
+
+Greg McKinley
+
+Okay, thank you and then I wonder if you could talk a little bit more about 3PI, so Eric you had indicated you feel you've got a great new leader in that position. What should investors be looking for from 3PI over the next several quarters. How should we be thinking about some of the innovations you guys are bringing there whether it's as you said patenting product or new product development. How should we measure the success that you're looking to achieve?
+
+Eric Cohen
+
+What we'll do is, we'll keep in fact investors up-to-date over the next few quarters as we look to patent products. We can touch on the details after we put in those applications. As we make changes, we're now shipping those new designs and for competitive reasons, why want to wait a quarter, but we can get into more details and what those look like and then as we said, as other items like quotes and other activities continue to ramp we'll give indications to that.
+
+There are areas like CHP which we had done absolutely nothing yet, which now we're actually shipping orders and quite a few orders and so, again there is this whole area of business that as we were off to next quarter and as they get into appeal, then we can talk specific examples. We'll probably take some case studies of some examples and highlight those.
+
+Greg McKinley
+
+Okay, thank you and then, just clarification maybe you already said this, but in the press release. You were saying, we're reaffirming our previously issued 2016 guidance of $630 million to $670 million is that not a raise to guidance and if so, is it again PI or is there another element, we're reflecting the change?
+
+Gary Winemaster
+
+It is a raise and it is including the PI revenues for 2016.
+
+Greg McKinley
+
+And are there any other contributions to that raise, any changing view of some of the end markets that would be raises beyond the PI?
+
+Gary Winemaster
+
+No, I think we're reaffirming. Our position and then the additional revenues coming from PI.
+
+Greg McKinley
+
+Okay.
+
+Gary Winemaster
+
+When we get those numbers.
+
+Greg McKinley
+
+Thank you.
+
+Operator
+
+And our next question comes from Eric Stine with Craig-Hallum
+
+Eric Cohen
+
+Maybe we can, just go back to Buck's. I know beyond bringing that in house, just first if you can talk to the relationship with United. I know, that potentially is a large opportunity, but just you know how you see that shaping up going forward?
+
+Eric Cohen
+
+Yes, you know United is a very sizable company and owned by even larger public company. It was probably one of the major customers we did not have and so with the Buck's acquisition part of the arrangement is that we will be able to sell our engines directly to United. So for us, in the oil and gas base and some related areas. It opens up a brand new area that we previously couldn't service for competitive reason. So we're excited about it and United is excited about it as well.
+
+Eric Stine
+
+Okay, maybe just to turn it on-road with the PI acquisition, just curious what the combined company what that means for the RV market. I know that's an opportunity for your 8.8 liter, if you could talk to the size of the opportunity maybe what's predominantly used now and some of the performance characteristics of your engine that make it ideal for that market.
+
+Gary Winemaster
+
+With that 8.8 liter, with some of the PI products, I mean I think we address and potentially even some of the GM products are coming forward. The RV market had a supplier [indiscernible] years ago before the 481 dropped out of production in 2009 and the RV market was used in 20,000 plus gasoline engine 8.1 and gasoline engines. When that engine left there was a significant drop in power and so, there was that market was really absorbed by diesel and I think that, we have the opportunity to go after the major competitor in that market, which will be Ford.
+
+And provide a product that has more performance than it's currently available and give us a great opportunity to see some significant business going forward.
+
+Eric Stine
+
+And is that a market that you've sized kind of the overall opportunities.
+
+Gary Winemaster
+
+Yes, we believe that the non-diesel market in the RV industry. It is $250 million to up to $300 million a year.
+
+Eric Stine
+
+Got it. Okay, that's great color. Maybe last one for me, just potential expansion with Navistar and I know it's an act you're showing 8.8 liter propane on the Durastar platform just curious on anything, we could see there here going forward.
+
+Gary Winemaster
+
+I would tell you that we have a very strong relationship with Navistar, we were working on a number of programs. The Durastar in our [indiscernible] I think an indicator of an expanded relationship with Navistar, but I wouldn't leave it to Navistar to announce those programs as they come forward. I can only tell you that we are very bullish on the school bus business that we have together and I think that we have a very good relationship with the executive engineering teams there. So I think we're in a very good position.
+
+Eric Stine
+
+Okay, thanks a lot.
+
+Operator
+
+And we'll take our next question from Walter Liptak with Global Hunter
+
+Walter Liptak
+
+I wanted to ask a follow-on the oil and gas markets. In the press release and some of the commentary that sounds like it, it may have slowed a little bit. I'm not exactly sure what the delta is, I'm wondering if we can get a little bit more color on and what changed from kind of the last conference call update to this conference call.
+
+And I'm wondering, if you split out between rental companies and direct to E&P's or geographic regions that might have changed.
+
+Eric Cohen
+
+Yes, to better phrase a bit from what we covered earlier. What we were seeing is, we were seeing growth in two areas again from the exploration side as well as the production side. Substantial amount of our customers are really onto production side and so as the exploration side dampened. We still see growth again, we don't expect the exceptional of 100% like we did last year, but we are going to see growth.
+
+One of the things that it kind of highlights with our company is we're not tied into one specific niche or one specific factor. So when we look at oil and gas, sure the future exploration the E&P wells that was part of our growth. We also have projects in microgrid, in displacing diesel, in existing wells. So we have multiple lines of revenue and projects in the oil and gas field.
+
+So if one area growth is slightly down, we're still bullish and we're still going to have growth and some of these others again have huge trends behind them. Getting off the grid, having distributed energy, having lower cost energy now there's free flare gas we're even using, in expense they're so big fuel spread and spark cost saving spread in using just even compressed natural gas or LNG still. So we've multiple areas of growth, but still feel confident bullish on as do our customers.
+
+Walter Liptak
+
+Okay, I got it. Thank you. And I wanted to ask you, you talked a little bit about the industrial trends. I wonder if we can get some more color there. I think aerial work platforms are strong, but we've seen slowing and some other markets. Any comments there on the outlook for the second quarter?
+
+Gary Winemaster
+
+The growth that we have planned to see in those sectors is still continuing. Forklift I think we're still gaining share versus some of our competitors. We're expanding into China into some non-certified market. Aerial work platforms, I mean we have very strong relationships with key players in those industries. So I think industrial, I mean we've seen moderate growth and we've seen the ability to gain share. So we're still very bullish on what we said for our plan for 2015 and it's no different than what we said before.
+
+Walter Liptak
+
+Okay, got it. All right, thank you.
+
+Operator
+
+And our next question comes from Aditya Satghare with FBR Capital Markets
+
+Aditya Satghare
+
+So two questions, one is one oil and gas and second on the PI acquisition. So oil and gas, can you give us an update on some of the new products we plan to launch in this market and what kind of impact could that have on incremental revenues that probably offset some declines from other parts of the market?
+
+Gary Winemaster
+
+We will have some mean burn [ph] the large Perkins product in the second half of the year, which was always our plan. So we will start to introduce to larger power system that would go all the way up to 1 megawatt. So we're working with those new products, we have some products that are, we have some different fuel strategies. We have the ability to run a little learner and we have the ability to run very higher power outlets with fuels and not worry about detonation, so we have a whole new line of products that is been accepted and it's going forward that other companies do not have.
+
+So we have advantages in the market place and we'll have some new products in second half of the year.
+
+Aditya Satghare
+
+So when we think about the incremental $30 million, is there - do the new products contribute a meaningful part of that?
+
+Gary Winemaster
+
+Excuse me?
+
+Aditya Satghare
+
+When we look at incremental $30 million of revenue growth in the oil and gas market, is a big part of that coming from the newer products or is it coming from existing products?
+
+Gary Winemaster
+
+We see a shift into a larger engines, we had a high concentration of 8 liter and 11 liter and we're seeing higher concentration into 22 liter engines some of the larger power systems. So we will see, I think the $26 million growth that we talked about. We will see that from a shift as well as from the new products.
+
+Aditya Satghare
+
+Understood, thank you. And then on the PI acquisition, could you elaborate a little bit more on the expertise of sort of arrangement and capabilities of PI and how should we sort of think about the product characteristics specification between your 4.8 liter and 6 liter and 8.8 liter engine and their engines?
+
+Gary Winemaster
+
+The 6 liter and the 4.8 liter as very similar in performance and strategy. We had different customers that we sold to and those relationships I think are something that PI did very well with those customers. We have our customer relationships and they have their, bring them together, gives us a larger customer base. When we look at their engineering expertise. I mean, they've been on the on highway business for 10 years. Integration, calibration, all the things that are very important for on highway.
+
+Although, we feel that our team is a world-class team. I think the combination of the two companies is even stronger. So we look at it is now we're in a position to be a leader in the across 7 truck market. Medium duty, we provide probably the largest range of product and I think most cost effective solutions for all fuels not just natural gas but we'll have solutions for LP, natural gas and even gasoline.
+
+Eric Cohen
+
+And just adding on to what Gary has said, in addition to PI we really have an world class on highway engineering and commercial team, which we now partner with. So strategically it becomes very strong position for us. Right now, if you're looking at Class 3 through Class 7 and you're looking for engines that are alternative to diesels. Those companies that are really viable companies that are in for production.
+
+There is really three, there is PI, there is us both off and GM engines and then there is Ford. And so now with this consolidation with PI. We're the sole provider of these GM engines on-road in that space and then, Ford is the other option. So it becomes in very large market, we see that we can offer some very good solutions to our customers.
+
+Aditya Satghare
+
+Thank you very helpful, thanks for the update.
+
+Operator
+
+And our next question comes from Alex Potter with Piper Jaffray
+
+Alex Potter
+
+I just want to ask this one last question, hopefully put this topic to rest. There is a little bit of weakness versus last quarter in oil and gas, but did you look at the updated guidance in this for the full year in 2015. It's coming up, that the only difference between guidance before and guidance now is the PI acquisition and Buck's. there is no, if you were X to that out, you wouldn't be seeing a decline in guidance due to weakness in oil and gas, is that accurate?
+
+Gary Winemaster
+
+That is very accurate.
+
+Alex Potter
+
+Okay, very good. That's perfect. Also, I was very wondering I guess one of the question here on the product. PI got an 8 liter, you guys obviously have an 8.8 liter, is there any risk or redundancy or over lapse there obviously those two engines complimenting and competing against each other?
+
+Gary Winemaster
+
+They're priced differently and I would tell you, that there is been some extensive put in by Freightliner and PI to develop that product. We will offer that product as well, so the 8.8 liter is more horsepower, more torque it has the ability to run on gasoline and natural gas today, but for LP opportunity I think the 8 liter provides us an additional product.
+
+Eric Cohen
+
+And Alex to review them both, is very good products. Whether 8 liter or 8.8 liter and it's really up to the customer of the market to dictate what they want and we're happy to provide and support either of them.
+
+Alex Potter
+
+Okay, very good. this obviously maybe is going to be a little bit tough to forecast, but I was wondering if you do want to take a stab at where you think propane penetration ultimately shakes out in the school bus market?
+
+Gary Winemaster
+
+Well, I mean when we talk about where the market was, with Navistar not offering an LP version until this June, you had a 35,000 a year overall engine market and the school buses and there was about 12% penetration by LP. We think that, with Navistar coming in, with a product a wider range of products offering a wider range of performance. We think that market share should grow.
+
+The exact numbers and it would be, we've talked to a number of the major buyers in that sector for student [ph] and a number of other larger buyers of school buses and all very bullish on the products that we offer. So I think that we're going to see an uptick and I think that, time will tell. We are very, very bullish about getting share in that space.
+
+Alex Potter
+
+Okay, very good and I guess I'll leave you with one last one. you mentioned combined heating power, getting some traction in through the 3PI acquisition, would be interested I guess on that product but also more broadly within 3PI, what end market you're seeing the interest from, where you're getting the traction obviously it's going to be a power application at some time, but what is the power being produced for? Thanks.
+
+Eric Cohen
+
+Yes, what we're seeing overall is the trends that have been in Europe for a while combining [indiscernible] is very popular in Europe and around the world. Now what's happening is with long-term reliable and cheap source of natural gas. We can now actually have affordable combined heating power and that trends taking off on top of that. There is a movement in many municipalities and many industries to try and understand how the efficiency and they're willing to invest in that.
+
+Also the whole trend for going off grid, rather than selling into the rid for power that's how combined heating power. So where we're seeing it? What we're seeing it, now in power applications, but you're also seeing it in industrial applications. And in industry, let's say you're processing plant that needs to process something with hot water, hot steam. It's a great use of combined heat and power because you're recovering the heat. Actually chilling application, we need to do reverse you know those applications.
+
+So we're seeing it in everything from power to municipalities to just general industrial processing companies which have the use for the heat or chilling capabilities and again the demand of it, we went from really nothing to now we have most of the people working on it and it's one of our fastest growing sectors right now.
+
+The other nice thing about it is, it's complicated and it takes some expertise and so there is very companies in the US that are able to offer what 3PI offers. So right now, we see that we're in a leading position and very fast emerging market.
+
+Alex Potter
+
+Interesting. Very helpful. Thanks guys.
+
+Operator
+
+Next question comes from Rob Brown with Lake Street Capital Markets
+
+Rob Brown
+
+On PI, what was the unit volume that they were doing and to what degree, will you have synergies as you integrate, either on the manufacturing side or on the sourcing side? Thank you.
+
+Gary Winemaster
+
+They did over 6,000, 6 liters with General Motors. So that's substantial and I think that what we're going to bring together is a lot of support in the backside. They did a very good job on the integration and the sales. So what we believe is that we can bring efficiencies in supporting those products and putting them together.
+
+Rob Brown
+
+All right, thank you.
+
+Operator
+
+And our next question comes from Christopher Crum with Aylstone Capital
+
+Christopher Crum
+
+Just to clarify something, I think you said that you have enough capital available to you on your line of credit for the near term and just wondering about kind of what you're thinking longer term in terms of access to capital?
+
+Dan Gorey
+
+Well it's an ongoing progress and surely depending on what opportunistically comes up over the acquisitions, but you're looking just as the base business as it is today. as we said, we rely heavily on our bank asset base to totally and really this business as we take in high quality engines and convert them and sell them to high quality customers and so we get very good advance rates and it's a great way at sub 2% money to finance your working capital and by and large that the biggest thing in cash.
+
+So you're growing 35%. What you really got to do is make sure you got the money to support your growth and working capital and we have that and we have the ability to expand that. We have big cushion now, with this 5.5% $55 million note, so that gives us additional cushion again of the good part of that is going to go towards the PI acquisition, but we're still are gin got end up with additional availability.
+
+I think as of today, we have about $63 million here in cash or notes or in bank availability. So I'm comfortable with that our balance sheet is solid and positioned well to support our growth. Down the road, depending there is a number of options that will always be on table and our board management will constantly and evaluate our growth along with the means to that growth and how we finance it.
+
+Christopher Crum
+
+Okay and I think your guidance for second quarter revenue growth was flat sequentially and just wondering, when those inventories picked up, but you're calling for flat year-over-year I'm sorry flat sequentially but your inventories are ticking up a little bit. Just kind of wondering are you seeing, what are you seeing that gives you confidence to build that much inventory.
+
+Dan Gorey
+
+We're typically not building an inventory with volume and inventory in anticipation, right? We've got a number of opportunistic values in inventory. We've got a number of new product launches and as Eric mentioned, we did buffer inventory did as a result some of the problem getting product in. I think that determined much more on all of that, but there is a lot of rationality to where we are at. We watch the inventory very closely and we're confident that inventory is going to be well needed, particularly later in the second half.
+
+Christopher Crum
+
+Okay then last one for me. Again on the balance sheet, accounts receivables looks like the day sales outstanding ticked up again. Where do you want to see that settle out or what number should we use for that?
+
+Dan Gorey
+
+Well, I think it's running around 70 days or so, I mean we've concentrated trying to improve it, we've got now some in acquisition that in there is as well that's changed into bit. but again, well as trying to improve we look at much closer than every quarter and so there is a little bit of disadvantage with timing that when you're capturing data in one point in time in the quarter, but you know 60 days would be a nice flow for us.
+
+Operator
+
+And our next question comes from Greg McKinley with Dougherty & Company
+
+Greg McKinley
+
+Thanks just a quick follow-up. To understand your view caught on the core business the non-box, non-PI in the second half of the year. You're obviously aware of big program initiatives that you believe, you'll be involved in and I'm sure some of those you can't talk specifics about now. But to get to your oil and gas number, you're expecting some recovery. Is forklift and on road, I mean where are the big programs that lurking that are going to get that ramp in that core business over the next two quarters.
+
+And maybe you could just talk to us about the visibility you have on the program timing right now.
+
+Gary Winemaster
+
+Well of this programs that you mentioned, we have great visibility. We're getting more share in all of the foreign markets for forklifts. We're following the guidance that we gave, we have visibility into all of our customers production schedules. So we get a lot of visibility in how that works, through their portals. We see growth with on highway, we've given a number for that, for the second half of the year and it's tracking to be that, maybe more.
+
+Greg McKinley
+
+Gary just on that, can you remind us of where you head is on that market?
+
+Gary Winemaster
+
+We said $30 million excluding PI.
+
+Greg McKinley
+
+Okay.
+
+Gary Winemaster
+
+So I mean that was the number that we gave, I mean I will tell you that we've had new programs that we will be able to announce in the second half in China. We're very excited about that. So everything that have been looking at and we described for the market is on track. So we anticipated a strong second half, like we're seeing. So we remain very bullish in our guidance.
+
+Greg McKinley
+
+Thank you.
+
+Operator
+
+And ladies and gentlemen, with no further questions in queue. I'd like to turn the conference back over to Mr. Gary Winemaster for any closing remarks.
+
+Gary Winemaster
+
+Thank you, operator. Before we conclude, let me mention some upcoming conferences which we will be presenting. Next week on May 13, we will host investor meetings at the Barrington Spring conference in Chicago. On May 27, we will present and host meetings at the Craig Hallum Institutional Investor conference in Minneapolis.
+
+This concludes our call. Thank you for your interest in Power Solutions Internationals and we look forward to our next conference call with you in August, when we will report second quarter results. Thank you very much.

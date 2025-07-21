@@ -1,0 +1,333 @@
+Welcome to Hertz Global Holdings Second Quarter 2022 Earnings Call. [Operator Instructions] I would like to remind you that this morning's call is being recorded by the company.
+
+I would now like to turn the call over to your host, Johann Rawlinson, Vice President of Investor Relations. Please go ahead.
+
+Johann Rawlinson
+
+Good morning, everyone, and thank you for joining us. By now, you should have our earnings press release and associated financial information. We've also provided slides to accompany our conference call, which can be accessed on our website.
+
+I want l to remind you that certain statements made on this call contain forward-looking information. Forward-looking statements are not a guarantee of performance and by their nature, are subject to inherent uncertainties. Actual results may differ materially. Any forward-looking information relayed on this call speaks only as of today's date and the company undertakes no obligation to update that information to reflect changed circumstances. Additional information concerning these statements is contained in our earnings press release and in the Risk Factors and forward-looking Statement section of our 2021 Form 10-K and our second quarter 2022 Form 10-Q filed with the SEC. All these documents are available on the Investor Relations section of the Hertz website.
+
+Today, we'll use certain non-GAAP financial measures, which are reconciled with GAAP numbers in our earnings press release. We believe that our profitability and performance is better demonstrated using these non-GAAP measures.
+
+On the call this morning, we have Stephen Scherr, our Chief Executive Officer; and Kenny Cheung, our Chief Financial Officer.
+
+I'll now turn the call over to Stephen.
+
+Stephen Scherr
+
+Thank you, Johann. Good morning and welcome to our second quarter earnings call. Our financial results for the second quarter were strong, reflecting the continued strength of our underlying business, positive market forces and high demand for our services. Revenue was $2.3 billion, up 25% year-over-year, and up 30% quarter-over-quarter and adjusted corporate EBITDA was a second quarter record of $764 million.
+
+Adjusted free cash flow in the quarter was $484 million, with the company demonstrating increased free cash flow conversion from the first quarter. In the quarter, our performance facilitated continued investment in fleet and non-fleet CapEx as well as the repurchase of $890 million of stock through open market purchases, completing our initial $2 billion authorization.
+
+We also initiated purchases under a new $2 billion Board authorization, which we announced on June 15 of this year. Overall, I am very pleased with our performance and the momentum of the business coming out of the second quarter with strong results across the U.S., Canada, Europe and APAC. Demand for our services remains elevated, as each of leisure, corporate and ride sharing continued to demonstrate improvement.
+
+Getting into the specifics of the quarter, our operational performance was strong overall, and importantly showed sequential month-to-month improvement as the team capitalized on the heightened pace of the summer travel season. We achieved fleet utilization of just under 80% in the quarter, 5 points higher than in the first quarter, with June representing the highest utilization month for the year thus far at over 80%.
+
+Similarly, our monthly revenue per unit hit a June record of $1,667. For the quarter RPU was $1,606 and RPD of $67. Both metrics were up over last year. I would point out that we achieved these results despite elevated auto recall activity in the quarter, which we estimate depressed our utilization by 1 percentage point and negatively impacted revenue by $15 million to $20 million. Looking ahead, we are seeing the momentum built over the course of the second quarter carrying through to the busy summer season of late July into August.
+
+With respect to EBITDA and free cash flow generation each represents a second quarter record for the company. And we're impressive notwithstanding upward inflationary pressure on expenses, particularly labor costs. Although much of these inflationary costs are being passed through in elevated RPD, we nonetheless continue to drive expense discipline, including a reduction in our reliance on more expensive third-party labor sources.
+
+All of these operational improvements, which are delivering clear results for our shareholders, are rooted in our enhanced focus on driving an ROA mentality in all that we do. The cornerstone of this approach is how we view and manage our fleet. Our second quarter results reflect our ability to run higher utilization, while protecting rate. Put simply, we are generating more EBITDA and more cash flow with fewer cars.
+
+On an ongoing basis, this early mindset means that our fleet decisions are dynamic and are guided by changing economic circumstances and customer demand. By sweating our assets, we are making careful decisions regarding additions to the fleet and equally prudent decisions about the volume and manner by which we dispose of vehicles. And we will continue to do so.
+
+Running the fleet tight and inside expected demand curves has and we expect will continue to produce higher free cash flow on the back of lower net fleet CapEx. This was on display in the second quarter. As demand for travel across airlines, hotels and rental cars remain strong. And as I noted, we expect the balance of the summer to continue to carry sustained demand for our services, with strong pricing resulting from ongoing supply demand dynamics.
+
+Our strong performance in June carried forward into July. We are not seeing a pullback in forward demand as reservations for August and September are currently in line with seasonal expectations. In all, we remain confident in the fundamentals of our business. That said like all consumer businesses, we are attuned to external indicators of future economic activity, particularly when they don't comport with what we are currently seeing in our business.
+
+Our business offers us immense flexibility to quickly adjust to changing demand. The used car market is liquid and provides us with a valuable option to buy and sell cars to meet marginal demand on short notice. This complements our strong OEM relationships, which ensure a steady baseline supply of new cars, which keep the fleet current and young.
+
+It is also a distinguishing characteristic of the rental car business as our assets can be bought and sold quickly, they can be moved to deeper pockets of demand and managed with flexibility to maximize returns. Beginning in the second quarter, we challenged ourselves as to the level of fleet we would target for the balance of the year, taking stock of high current residual pricing on used cars and questions about more modest demand late in the year.
+
+With the possibility of more seasonal demand patterns in Q3 and Q4, rather than outsized growth that we experienced coming out of COVID, we are availing ourselves of the option to buy and sell cars quickly that is unique to our business, rather than preemptively remain at elevated fleet levels. We are choosing to safeguard rate and optimize utilization so as to generate higher EBITDA and cash flow. The result is that by fiscal year-end, our fleet size will approximate where we opened in 2022.
+
+If elevated demand were to persist, we will flex the fleet quickly and responsibly as the spot market for low mileage good condition used cars remains available to us. This approach also carries the ancillary benefit of reducing the average fleet age, which has already been lowered by 2.5 months year-to-date, as well as freeing up maintenance capacity to address out-of-service vehicles.
+
+To put numbers to all of this, you will recall that on our last earnings call, we provided a range of net fleet CapEx of $1 billion to $1.5 billion. We view that number now to be between $750 million and $1 billion. All of that said for the balance of the third quarter, we expect to continue to benefit from a market that is supportive of our business, continued high RPU on the back of high utilization and elevated rate.
+
+As others have noted, travel trends relating to the recovery from COVID are prevailing over the risks of an economic downturn. Until that equation changes, we will continue to benefit from the former and we'll be ready for the latter.
+
+Let me now turn to progress on certain business and operational initiatives that are growing contributors to revenue growth and cost containment. On the TNC side, Uber and Lyft driver demand for both EV and ICE vehicles remains strong in the quarter and we have nearly doubled our TNC fleet size year-over-year.
+
+With respect to EV specifically, over 15,000 Uber drivers to date have rented a Tesla from Hertz, at a minimum rate of $334 per week, comprising over half a million transaction days. Driver feedback has been positive and they remain drawn to the opportunity as gasoline prices remain elevated and demand for the service among Uber customers is strong. Our Tesla's enabled Uber drivers could differentiate themselves and to improve upon the quality of their riders experience, and that translates into higher earnings for them.
+
+We're also excited that on the back of our recent success, we have now expanded our Tesla Uber partnership into Canada. With respect to electric vehicles in our airport and off airport fleet, we've recorded over 160,000 transaction days using Tesla cars booked at premium rates that are typically $30 to $35 in excess of comparable average rates.
+
+Customers are enjoying the Tesla EV experience, which is being expressed in NPS scores that are 10 points higher than our global average. We are continuing to expand the electric vehicle offering through the regular delivery of Tesla cars and now Polestar. We are also negotiating with other OEMs to purchase electric vehicles at attractive price points. What's more, as we accumulate additional data on the Tesla fleet, we expect to see higher residual values than originally anticipated.
+
+On the corporate side of our rental business, we continue to work with Amex GBT to enhance our share across its customer portfolio. For example, as corporate travel has been rebounding, June generated more than 2x the revenue we recorded from Amex GBT in January, and we expect this momentum to continue.
+
+In addition, we expect to leverage Amex GBT's acquisition of Egencia, a corporate travel management firm to accelerate our capture of the profitable mid market travel segment. Overall, we anticipate the corporate segment to grow, particularly as more companies return to travel.
+
+With regard to the disposition of vehicles, we have sold thousands of vehicles on the Carvana platform during the first half of the year. We expect further growth from here. This disposition channel remains active, provides us with granular market intelligence on pricing dynamics, away from more conventional indices, and perhaps most importantly, offers us a material premium to prices we would otherwise realize through wholesale channels. Our ambition is to increase the use of Carvana and similar channels as our systems around fleet pricing and management continues to mature.
+
+I also want to speak about technology, which is obviously a significant area of non-fleet investment for us. As an example of technology investment benefiting financial performance, we are making progress with telematics. In the Americas, over 285,000 of our cars are now connected. That's around 75% of the fleet. We are on track to have nearly all of the Americas fleet connected by year-end.
+
+Telematics are promoting higher fleet uptime, reducing theft and bad debt, improving damage monitoring, and providing for more accurate fuel measurements. By example, repossession recovery times are reduced by 50% on connected vehicles at an RPU of more than $1,600 per month, that time savings matters. As we mature the program, we will add more features to leverage telematics data to improve our inventory management and planning practices.
+
+Lastly, regarding technology broadly and our migration to the cloud, as I have said before, this is foundational to the company. As we progress our move to the cloud over the next 18 to 24 months, we will operate more efficiently and realize very tangible cost reduction as it relates to expenses associated with our legacy platforms and physical data centers.
+
+Operating with SaaS providers like Oracle as an example and running our business in a safer and more cost effective cloud environment will reduce operating expenses and lower our reliance on third-party consultancy. Together we estimate all of these business and operational initiatives in their mature state, both on the revenue and cost side can contribute in excess of $500 million of incremental EBITDA not now reflected in the business.
+
+As I turn the call to Kenny, I'll close by saying that I am increasingly confident in our ability to execute on our core business plan and excited by our strategic initiatives, which position Hertz for success in an evolving mobility ecosystem. As we work through an extremely busy summer season, I would also like to recognize members of the Hertz team for their tireless efforts and especially acknowledge the teams in the field as they look after customers and produce increasing net promoter scores and positive financial results.
+
+Now I'll turn it over to Kenny to walk you through our results in more detail.
+
+Kenny Cheung
+
+Thank you, Stephen, and good morning, everyone. As Stephen mentioned, we had a very strong second quarter, and I continue to focus on asset yield paid off. Our adjusted EPS was $1.22 and adjusted corporate EBITDA was a second quarter record of $764 million, reflecting a margin of 33%. Revenue was $2.3 billion, up 25% from 2021 and up 30% sequentially, well above the historical seasonal uptick of 20%.
+
+While auto recalls burdened utilization in the quarter, we also experienced a modestly negative foreign currency impact, mainly from the euro conversion to dollar, impacting revenue by about $20 million, or roughly 1% quarter-over-quarter. That notwithstanding, our results reflected our operational focus and price discipline.
+
+Monthly RPU was above $1,600 for the quarter, in line with March as we exited Q1. We experienced an almost 20% increase in volume compared to last year, driven by continued strong demand in leisure rentals, corporate and international inbound customer demand have yet to fully return to pre-COVID levels, but have shown improvement.
+
+International inbound travel, for example, only began to benefit from relaxation of U.S COVID testing requirements and mass mandates late in the second quarter. However, we did see the volume gaps began to close during the quarter. Corporate volume was at 70% of 2019 levels in Q2 with international inbound at about 40%, both modestly up versus Q1.
+
+Depreciation per unit per month for Q2 was $71, which was lower than the average we estimated on our last call. This lower-than-anticipated depreciation was largely driven by fewer cars purchased in the quarter as we maintain tighter fleet management and higher-than-anticipated residual values, including on EVs, as well as higher than expected gains in the quarter, producing an offset to the gross depreciation line.
+
+Let me stay on residual value of used cars for a moment. In the quarter, we witnessed continuous strength in the residual value of our fleet, exceeding our previous expectations as the market for used cars remain strong. This provided an exceptional opportunity to monetize older and fully depreciated cars.
+
+In addition, the shift of several thousand car sales from the wholesale market to the Carvana channel enhanced our selling price by approximately 5% and optimized inventory turns. The result of these efforts is reflected in our strong free cash flow as well as in the ABS equity cushion, which was about $2.5 billion on June 30. This level, despite our harvesting of gains by vehicle sales, was approximately unchanged from March 31 due to strong residual values, accelerated ABS depreciation rates and deliberate fleet purchase decisions.
+
+While residual values remained higher than we expected in Q2, we’ve experienced some modest reduction in the first week of Q3. As we indicated last quarter, we would expect values to soften a bit from here, but our balance sheet and ABS structures remain exceptionally well-positioned, and we will continue to prioritize car sales to optimize channels as we adjust fleet.
+
+As Stephen mentioned, we now believe net fleet CapEx for the year will be between $750 million and $1 billion. This change will have a dollar-for-dollar impact on free cash flow. Also, we believe our fleet rejuvenation efforts, including our rotation from older to newer vehicles will result in Q3 monthly DPU of $145 to $165 and full year monthly DPU of $75 to $125. These estimates are lower than the numbers we provided to you in April and reflects stronger-than-expected residual values, which have contributed to higher-than-expected gains on sale as well as fewer expected additions to the fleet.
+
+Turning to expenses, which remain an area of intense focus for us. In terms of operating costs, which are largely variable, we incurred $1.2 billion in Q2. Although this represents a 24% increase versus Q2 of last year, that increase is to be understood in the context of a 27% increase in transactional activity over the same period, reflecting modest operating leverage in the business.
+
+As for the primary drivers of the year-on-year increase, we experienced higher cost and transportation and fuel, reflecting the effect of broader inflationary trends as well as in maintenance on order fleet. We expect maintenance expense to moderate as our fleet continues to grow younger. On the forward, we anticipate additional operating leverage as more expensive third-party labor strategically replaced with Hertz employees and we further reduced maintenance expense as we rejuvenate the fleet and continue to grow our number of EVs.
+
+In terms of SG&A, we incurred expense in Q2 of $257 million, representing a return to a more normalized level of marketing spend as well as higher profit sharing and share-based compensation relative for post-emergence activity last year. These three categories comprise the entirety of the year-over-year increase.
+
+Let me now turn to our capital structure and liquidity. Our balance sheet remains very strong, and we ended the quarter with a leverage of 0.6x. At June 30, our liquidity was $2.5 billion comprised of $1 billion in unrestricted cash and $1.5 billion available under the revolving credit facility.
+
+During the quarter, we increased our RCF capacity by $450 million to $1.9 billion, creating additional financial flexibility and enhancing our corporate liquidity. We also increased the commitments under our variable funding notes by $843 million to over $3.8 billion. We allocated nearly $1 billion towards capital investments and share repurchases during the quarter and still maintain liquidity that's broadly in line with the previous quarter.
+
+Turning now to cash flow and capital allocation for the quarter. Adjusted operating cash flow was $585 million for Q2, approximately an 80% conversion from EBITDA. Our non-fleet CapEx was $24 million for the quarter and our net fleet CapEx was $77 million, reflecting our disciplined pace of fleet growth. Our adjusted free cash flow in the quarter was a strong $484 million.
+
+During the quarter, we repurchased nearly 47 million shares, completing the initial $2 billion program announced in November 2021. As you know, we announced the authorization of a new $2 billion program on June 15. And through July 21, we repurchased approximately 9 million shares with $1.8 billion remaining under the new plan.
+
+We believe that our strong balance sheet and improved operational position will continue to permit the company to generate sufficient cash to meet our capital priorities, which are investing in our fleet, funding our strategic initiatives and returning excess cash to shareholders.
+
+Finally, in terms of tone of our business, as I noted earlier, we saw a relaxation of testing and mass requirements for travelers to the U.S. late in Q2, which has produced a tailwind for international inbound demand. We are now starting to see elevated inbound activity in Europe from the U.S. and vice versa. We are also experiencing strength in Canada as we’ve emphasized our off-airport business and strength in certain parts of APAC business as economies have opened.
+
+In terms of what current activity means for performance, I will reiterate what Stephen said earlier. As we sit here today, we continue to see strong demand for our services. In fact, over the last few weeks, we have days that hit post-pandemic records for vehicles on rent in each of the U.S., Canada and Europe.
+
+July is proving to be a very strong month for us, even stronger on RPU than June. Looking out over the third quarter, I will point out that Q3 is typically a seasonally stronger quarter than Q2, with July the strongest month of the three. We currently expect that seasonality to persist with Q3 benefiting from the elevated levels of RPD in Q2 carrying forward and a seasonal increase in volume consistent with historical patterns relative to Q2.
+
+Finally, as an observation on the industry, we do not see any near-term material relief from limited new car supply. And therefore, we believe our fleet will continue to be tight, like that of the industry generally. And as a result, that pricing and residual values will remain strong.
+
+With that, let's open the call for Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Chris Woronka from Deutsche Bank. Please go ahead.
+
+Chris Woronka
+
+Yes. Hey. Good morning, guys. Stephen, can you maybe talk a little bit more about the modifications you made to the fleet plan to reduce the CapEx estimates so substantially? Just maybe a little more detail there and the thought process that went into that?
+
+Stephen Scherr
+
+Sure, sure. Thanks a lot, Chris. So as I said in the prepared remarks, we are going to carry a fleet at year-end that will approximate where we began the year, which was sort of approaching half a million cars. Obviously, that will be down from a current peak as we carry fleet right now to sort of meet the summer surge of demand. And so over the course of this year, I think it's to be expected that we will kind of buy and sell roughly 300,000 cars aside.
+
+And if you look at what we buy, it will sort of trend 2:1 new cars to newer used or good condition used cars. And so that in and of itself, I would say it is a bit of a departure in philosophy from where we've been in the past. Meaning, in the past, this company had kind of locked in on a fleet number at the beginning of the year and sort of held at it and stayed long on fleet, notwithstanding where demand or where demand sort of was expressed. And so we relied exclusively on that.
+
+I think we were ignoring a valuable option, which is we do have an option to go into the used car market both to sell and buy cars to meet marginal demand. So make no mistake, we are going to be fundamental buyers of new cars as we rejuvenate the fleet, but the swing factor here is really going to be expressed in the up and down in what we do in the used car market.
+
+And so with questions about what demand will look like in the back half yet continued strong demand here, our view is that we ought to run on the short and not the long side of fleet. And where demand materializes higher than seasonal expectations, so higher in the third quarter, then we will in fleet, and we can do that kind of within a 30-day window where we can go out just as we did this summer and buy good quality used cars to sort of meet demand that's there. I think that puts us in a much better place.
+
+Now we are not forecasting a falloff in demand. Again, we are expecting seasonal growth. We are just managing our fleet to a level that is not sized upfront to sort of post-COVID excessive growth forecast that we're there. We will run short into fleet, again, inside the demand curve and look to the unique option we have. The rental car business, Hertz included, carries this unique option relative to other industries in the travel space, meaning the airlines cannot sort of move that quickly, right, to sort of generate supply to meet demand, higher or lower. Hotels can't move hotel rooms around, they can't get in and out of rooms sort of quickly. But we can and we can avail ourselves of this unique option to play in the used car market. We did it this summer and we can do it at the back half of the year, again, depending upon where demand expresses.
+
+The whole point of this sort of shift in strategy is that I think we can sell cars now at elevated prices given where residuals are. We are more likely to be buyers of those cars later at lower prices. And all the while, we will present with a lower [technical difficulty] of those cars later at lower prices and all the while, we will present with a lower net fleet CapEx. We can preserve rate, preserve higher utilization and maintain EBITDA and elevated free cash flow. And I think that's sort of a good solid strategy for us to follow in the context of how to manage fleet against an uncertain forward.
+
+Chris Woronka
+
+Yes. Thanks, Stephen. Very helpful. And then a follow-up, if I could, kind of relate to that. I guess where we see the fleet plan and we know demand overall is very strong, you've given us a lot of detail on what you're doing with EVs and the Ubers and such. Is there any shift in kind of strategic direction in terms of business you're pursuing? You talked about Amex. I guess the question is, are you over time, wanting to do less, I guess, hand to hand combat at some of the airports where at some point pricing can maybe normalize? Is that a strategic shift or not?
+
+Stephen Scherr
+
+Well, I would not read any of this as in any way kind of an abandonment of the classic business that you see on or off-airport locations. The way I would characterize what we are doing is twofold. One, I think there's inherent benefit in drawing out multiple channels of customers and not relying on kind of the RAC business as a monolith.
+
+What that means is we need to play hard not just for the conventional RAC business and leisure travel, we also need to play hard for deeper penetration of corporate travel and the TNC business is meaningful incremental demand potential that to this point had not been realized. So this is about pursuing diversified channels of demand than it is about an abandonment or withdrawal from any one particular channel.
+
+I'd also say to you that the ability to pursue multiple demand channels is predicated on carrying a more diversified fleet because the interest that each of those customer channels have may be differentiated one to the next. So for example, having electric vehicles as a growing component of the fleet in its overall composition is playing well in the corporate sector and playing well in P&C.
+
+Corporates want to satisfy their own sort of carbon footprint objectives, so they're compelling employees to get into electric vehicles, therefore, there's incremental demand. TNC, given where gas prices are and the quality of what a Hertz car means to the earnings power of an Uber driver, wants to sort of place their drivers into electric vehicles.
+
+So it's a combination of multiple channels of demand using different composition of fleet, right, to sort of give ourselves a greater ability to capture pockets of demand and have the agility to move fleet around in and throughout those channels.
+
+Chris Woronka
+
+Thank you.
+
+Stephen Scherr
+
+Sure.
+
+Operator
+
+And I show our next question comes from the line of Ian Zaffino from Oppenheimer. Please go ahead.
+
+Ian Zaffino
+
+Hi, great. Thank you very much. Great quarter, guys.
+
+Stephen Scherr
+
+Thank you.
+
+Ian Zaffino
+
+Kenny, just as far as the cost pressures you’re seeing here from inflation, maybe talk about leverage you have at your disposal to manage those and to address those costs. And then also share count, if you have that at quarter end? Thanks.
+
+Kenny Cheung
+
+Hey, Ian. Hey. Thanks for the questions. So, yes, let me remind you that about 70% of our cost is variable, right? These expenses will adjust as fleet size changes. And as Stephen mentioned, this is a unique feature of the car rental industry as we can fleet up and down pretty quickly, right? In terms of managing cost, right, we are obsessed with operating leverage. It's the thing we think about each and every day. And we have multiple levers that we can pull.
+
+Let me give you some tangible examples, right? On the labor front, as I mentioned, we are replacing expensive third-party labor with Hertz badge and FTEs, and that arbitrage would be flowing through the P&L going forward. On the maintenance side, in addition to increasing mechanics to repair vehicles in-house, we are currently working extremely hard to rejuvenate our fleet and that will improve maintenance expense over time.
+
+And personally, I'm extremely excited about getting more EVs this year, right? The EV economic has proven to be extremely accretive to our business, and that would also improve maintenance expense as well. Out-of-service, we are working extremely hard on out-of-service. And this will drive a few things, Ian: rentable fleet, utilization and drive more revenue, which ultimately drives scale and leverage as a percent of revenue, the expenses will go down.
+
+Stephen talked about tech plays, right, telematics, and that's going to be huge for us as well. Right now, we're about 75% tagged up. And by the end of the year, we'll be 100%. And that will really help on a few folds: theft, bad debt, damage recovery, service efficiencies and fuel recovery as well. Now we are also working very hard on technology plays, and we expect to see long-term benefits from that. And as you think about on-premise, the cloud conversion as well as legacy system refresh. So long story short, this is a key area of focus for us and will continue to be for the management team as we can match both fleet and expenses to demand.
+
+Ian Zaffino
+
+Okay. Thank you. And then if I could, just as a follow-up, on Carvana, you talked about that a lot now. Now that we're kind of through a couple of months, quarters, can you maybe tell us how large maybe that channel can become for you or maybe like the realized premium that you're seeing or that we should expect, just so we could conceptualize the value of that agreement.
+
+Stephen Scherr
+
+Sure.
+
+Ian Zaffino
+
+And then also just ending quarter share count. Thanks.
+
+Stephen Scherr
+
+Yes. So I leave Kenny to give you the quarter end share count. But on Carvana, we are realizing something in the neighborhood of about a 5% premium to what we otherwise sell cars in the wholesale market. And this is obviously very attractive. And the view is that we can and will continue to grow this. I mean this should number in the tens of thousands of cars in terms of what we can push through. So that could present meaningful and consequential 10% of total sales in a year.
+
+Just as I mentioned earlier, we will sell 300,000 cars this year. And as Carvana matures, it's not quite there yet, we will grow that to be a consequential and material percentage of what's sold. I will also say to you that I think the relationship with Carvana will also present, as I mentioned in the remarks, kind of an interesting view as to kind of where car sales and car prices are moving. That kind of intelligence will be important as we think about managing the fleet and just the sheer volume of cars that we will look to sell. But I think Carvana holds enormous promise, 5% above or thereabout what we get in the wholesale market and tens of thousands of cars at the mature state to sort of push through the channel itself.
+
+Kenny Cheung
+
+Yes. Ian, it's Kenny. Just to give you a perspective, right, on Carvana then I will answer the share count question. If you think about a normal year, we sell, call it, 300,000 cars, one-third is retail, two-third is wholesale. So there's a big opportunity there converting wholesale to Carvana. The share count at the end of the period was 368 million.
+
+Ian Zaffino
+
+Thank you.
+
+Operator
+
+And I show our next question comes from the line of Adam Jonas from Morgan Stanley. Please go ahead.
+
+Adam Jonas
+
+Hey, Steve. Hey, Kenny.
+
+Stephen Scherr
+
+Hey, Adam.
+
+Adam Jonas
+
+Definitely very, very smart to err on the side of caution with the fleet size. That's really, really good to hear. I'm almost pinching myself, I can't believe I'm hearing this.
+
+Stephen Scherr
+
+You are hearing it. You are hearing it.
+
+Adam Jonas
+
+It's actually happening. I don't believe it. A little more detail on the EVs. How many EVs do you have in your U.S. fleet right now? Where are they? Well, if you don't mind, I'll just rapid fire. How many?
+
+Stephen Scherr
+
+So we are at about, I think, 20,000 cars now kind of active in the fleet and obviously deliveries ongoing.
+
+Adam Jonas
+
+Okay. And what can you tell us about any stats? You mentioned a premium, $30, $35 premium, that's great. But anything else on D&A per unit? I don't know if you're able to share that right now if you have enough information or OpEx or anything else on profitability of that line? Because I think there are some issues with logistical challenges and things, which are part of the early EV fleet, right, which you've talked about in the past. I'm just curious if you pundit [ph] all together, how is -- is that a positive EBITDA shift for you or margin shift for you? Or is it [multiple speakers]?
+
+Stephen Scherr
+
+The answer is unequivocally yes. In fact, last week, we did kind of re-underwrite on the EV fleet, how it's playing, how it's presenting relative to what we thought it would do on the initial decision to go in. So I'd say a couple of things. First of all, we continue to take delivery of Teslas and we will continue to do that, number one.
+
+Number two, I think you should expect in the coming months that you'll see announcements from us about purchase of electric vehicles in sizable quantity from other OEMs as we try to sort of build out kind of a broad population of vehicles across a range of OEMs, and we will see those at very attractive kind of price entry points.
+
+Third, we are capturing, I think, as I said in the remarks, kind of a $30 to $35 premium on this. That premium has been fairly sustainable. And in the T&C channel, we are renting these for about $334, $335. We have found kind of just the right price point where given all sorts of externalities around economics for an Uber driver, they want to and are excited about renting that and they can turn a profit there.
+
+What that means for us, by the way, particularly in the TNC side is fewer touch points on the car over a course of a month, maybe by as many as 5 to 7x. That reduces cost considerably. We are obviously passing some of that on because the weekly rental is lower for the P&C driver than the per diem or per day rental out to the normal RAC.
+
+On maintenance, I think Kenny said to you, we are running kind of 50% to 60% of what maintenance costs are on ICE vehicles. That's roughly in line with where we are. If there's any one surprise, it's probably slightly higher expense on tires, but not much more, and that's embedded in the figure I'm giving you. So I would say, overall, we are very pleased with the results. They're coming in roughly in line with what we thought when we first underwrote the move in this strategic direction.
+
+Two other things I would say to you is: number one, I think depreciation on these cars will be better, right, than what had been modeled for a variety of reasons. And secondly, I think that on the logistics that you spoke about, this is where first mover matters. The first lot we took from Tesla relative to the most recent lot we took have moved materially faster. We've learned how to move those cars, where we want those cars to be. And equally, I think we have schooled our customers on how to use them, so much so that I think there's an embedded tether there, which is people have learned how to use the card. They're coming back to use the car and rent car more frequently. And I think all of those are expressions of the first mover edge that we have around EVs.
+
+Kenny Cheung
+
+Yes, just to add on that, on depreciation, we originally pegged depreciation rate to an ICE vehicle, as Stephen mentioned. Right now based on early inning on data, we are seeing the depreciation rate on the EVs being lower than ICE vehicles. So as we underwrite the business case with new data, we are even more confident with the economics of EVs.
+
+Adam Jonas
+
+That's really, really valuable data. If I can just squeeze in one more. Of the 20,000, how many of those are in TNC versus non-TNC? That's it. Thanks.
+
+Stephen Scherr
+
+I think it's a pretty fluid number. I mean the idea here is that they're not locked in, right? I want the flexibility to be able to move cars as between TNC and non-TNC, and so it's pretty fluid. Some of the facts and figures we gave you in the prepared remarks just indicate the sheer magnitude of demand that's being expressed by TNC, but that's going to be a fluid number by design.
+
+Operator
+
+Thank you. And I show our next question comes from the line of Ryan Brinkman from JPMorgan. Please go ahead.
+
+Ryan Brinkman
+
+Hi. Thanks for taking my questions. I heard you say that demand has remained strong in 3Q as reflected in bookings in August, et cetera. What insights can you share about the trend in pricing so far, either in July or maybe what you can glean based upon the bookings for August, et cetera?
+
+Stephen Scherr
+
+Yes. I would say on pricing, remember, the move from Q1 to Q2 showed pricing up, I want to say, about 12%, which was well above what seasonal movement Q1 to Q2 would have been. On the back of where we sit at elevated prices, I don't know that there's a lot of room for pricing to go up as it traditionally would have, right, between Q2 and Q3.
+
+So in my own mind, I think we will stay at a relatively static price in through Q3. And really, what we will see in the third quarter will be an expression of seasonal demand uptick, so more days. And that's historically been in the 7% to 8% range in terms of Q2 to Q3. And I think that's what we will see.
+
+We are at a very elevated sort of price level. I think it's sustainable. I don't foresee, as Kenny said, a sudden influx of new supply from the OEMs. And so holding fleet tight, protecting rate, we will sort of see that stay stable and we will see pick up Q2 to Q3, more in the expression of days in volume than in rates.
+
+Kenny Cheung
+
+Yes. The only thing I add is on pricing. Stephen is right. Q2 to Q3 is going to be a bit more flattish given where it is right now. But RPU, based on early reads are higher, right, so we are more effective and efficient with the use of our fleet.
+
+Ryan Brinkman
+
+Okay. Very helpful. Thanks. And what impact do you think there will be going forward on RPD from like the different crosscurrents and mix? So for example, like as international inbound continues to recover, maybe as Tesla increases as a percent of total on the leisure side. That should provide a nice tailwind, but how does that compare against, for example, a higher mix of corporate travel as that market also recovers? And with the balance of supply and demand as tight as it is, are you may be seeing like less than the traditional difference in RPD between leisure and corporate? And so maybe that wouldn't be the same headwind to RPD as you might ordinarily expect? Or how do you think these things might net out going forward?
+
+Stephen Scherr
+
+Sure. Well, I mean, first, I will say your question reflects kind of why we're now playing, I propose the question earlier, to multiple sort of pockets of demand because you will see sort of expression of demand different, right, across each. International inbound is improving, okay? And it's a very attractive segment for us by virtue of what we realize on rate and equally what we take in terms of value-added services.
+
+And the fact that testing sort of restrictions around COVID were lifted on inbound into the U.S., that's quite positive. And by the way, I would tell you that our European business is seeing exceptional growth and exceptional performance as is the Asia business. So there's kind of two way travel that's sort of benefiting.
+
+On the Tesla side, as I said in response to Andy's question earlier, we are seeing -- or Adam's question earlier, we are seeing heightened demand and elevated price by way of premium, we think we continue to capture that on the forward. The corporate segment is a really interesting one. So corporate business in Q1 was kind of back 60% to pre-COVID levels. I would say that's now at about 70% of pre-COVID levels. And I would tell you that what we are seeing in terms of rate is equally up.
+
+So like sequentially, Q1 to Q2, we saw roughly 28%, 29% improvement in rate, okay, around the corporate side. We are seeing similar momentum in corporate internationally. And I would also tell you that as we look at reengagement with corporates on contract renewals, we are seeing about a 97% retention of those accounts and they are almost all renewing at higher rate relative to where the older contract was. And so those are obviously very good signs in the context of what corporate can produce for us.
+
+Kenny Cheung
+
+The only thing to add on corporate is even though the RPD is a potential drag, it's RPU accretive because you get to utilize the fleet between Monday through Wednesday, which by default is a bit [indiscernible] versus the weekend, right? So again, it's the RPD drive. But from a fleet sort of ROA standpoint, it's good because they get to use the asset a bit more in the early part of the week.
+
+Ryan Brinkman
+
+Thank you.
+
+Stephen Scherr
+
+Sure.
+
+Operator
+
+This concludes today's Q&A session. I would now like to hand over to Stephen Scherr, Chief Executive Officer. Please go ahead.
+
+Stephen Scherr
+
+So I'd like to thank you all for your participation on today's call. I hope the call left you with a sense of the progress we are making on our strategic and operational advancements and equally demonstrated a level of adaptability of our business more broadly. We look forward to sharing further updates with you at our next call. And until then, stay safe, enjoy the balance of the summer. And I will now turn it back to the operator.
