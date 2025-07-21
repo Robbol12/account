@@ -12,7 +12,7 @@ import time
 import sys
 import glob
 
-openai.api_key = "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"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 MODEL_PATH = "/workspace/models/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf"
 
