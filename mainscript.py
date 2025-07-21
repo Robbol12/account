@@ -14,11 +14,11 @@ import glob
 
 openai.api_key = "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"
 
-MODEL_PATH = "/workspace/models/mistral-7b-instruct-v0.2.Q3_K_M.gguf"
+MODEL_PATH = "/workspace/models/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf"
 
-N_THREADS = 16
-N_CTX = 2048
-N_GPU_LAYERS = 30
+N_THREADS = 32
+N_CTX = 4096
+N_GPU_LAYERS = 120
 CHUNK_BASE_DIR = "chunks"
 TRANSCRIPT_SAVE_DIR = "checks"
 SENTENCE_CAP = 50
