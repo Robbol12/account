@@ -12,9 +12,10 @@ import time
 import sys
 import glob
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = "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"
 
-MODEL_PATH = "/workspace/models/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf"
+MODEL_PATH = "/workspace/models/Mixtral-8x7B-Instruct-v0.1.Q6_K.gguf"
+
 
 N_THREADS = 32
 N_CTX = 4096
