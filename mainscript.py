@@ -2,7 +2,6 @@ import os
 import re
 import json
 import string
-import openai
 import requests
 from bs4 import BeautifulSoup
 from googlesearch import search
@@ -12,7 +11,10 @@ import time
 import sys
 import glob
 
-client = openai(api_key = "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")
+from openai import OpenAI
+
+client = OpenAI(api_key="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")
+
 
 MODEL_PATH = "/workspace/models/Mixtral-8x7B-Instruct-v0.1.Q6_K.gguf"
 
