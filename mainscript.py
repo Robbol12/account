@@ -61,7 +61,7 @@ def extract_transcript_targets(question):
         "Respond ONLY in this JSON format:\n"
         "{\"ticker\": \"VIST\", \"claim_quarter\": null, \"claim_year\": 2022, \"check_periods\": [[1,2022],[2,2022],[3,2022],[4,2022]]}"
     )
-    response = openai.chat.completion.create(
+    response = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": system_prompt},
@@ -393,7 +393,7 @@ if __name__ == "__main__":
     )
     prompt_for_gpt = "\n".join(prompt_parts)
 
-    response = openai.Chat.Completion.create(
+    response = openai.Chat.Completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a financial transcript analyst. Given the evidence and quarterly analysis below, provide a synthesized final answer to the user's question. First give a clear Yes/No/Uncertain verdict, then briefly explain using the supplied evidence."},
