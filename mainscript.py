@@ -12,7 +12,7 @@ import time
 import sys
 import glob
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 MODEL_PATH = "/workspace/models/Mixtral-8x7B-Instruct-v0.1.Q6_K.gguf"
 
