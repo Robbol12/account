@@ -61,7 +61,7 @@ def extract_transcript_targets(question):
         "Respond ONLY in this JSON format:\n"
         "{\"ticker\": \"VIST\", \"claim_quarter\": null, \"claim_year\": 2022, \"check_periods\": [[1,2022],[2,2022],[3,2022],[4,2022]]}"
     )
-    response = openai.ChatCompletion.create(
+    response = openai.chat.completion.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": system_prompt},
@@ -69,7 +69,7 @@ def extract_transcript_targets(question):
         ]
     )
     try:
-        return json.loads(response["choices"][0]["message"]["content"])
+        return json.loads(response.choices[0].message.content)
     except Exception as e:
         print(f"[!] Failed to parse GPT response: {e}")
         return None
@@ -393,7 +393,7 @@ if __name__ == "__main__":
     )
     prompt_for_gpt = "\n".join(prompt_parts)
 
-    response = openai.ChatCompletion.create(
+    response = openai.Chat.Completion.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a financial transcript analyst. Given the evidence and quarterly analysis below, provide a synthesized final answer to the user's question. First give a clear Yes/No/Uncertain verdict, then briefly explain using the supplied evidence."},
@@ -401,7 +401,7 @@ if __name__ == "__main__":
         ],
         max_tokens=600
     )
-    final_summary = response['choices'][0]['message']['content']
+    final_summary = response.choices[0].message.content
 
     print("\n===== OVERALL FINAL JUDGMENT =====\n")
     print(final_summary)
