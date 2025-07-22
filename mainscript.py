@@ -17,9 +17,9 @@ openai.api_key = "sk-proj-eka4bgQv-XgrnF7IoW1UI0K68v-BKyD19lA3tH_pekD72oPbSeLWxQ
 MODEL_PATH = "/workspace/models/Mixtral-8x7B-Instruct-v0.1.Q6_K.gguf"
 
 
-N_THREADS = 32
-N_CTX = 4096
-N_GPU_LAYERS = 120
+N_THREADS = 16
+N_CTX = 3072
+N_GPU_LAYERS = 30
 CHUNK_BASE_DIR = "chunks"
 TRANSCRIPT_SAVE_DIR = "checks"
 SENTENCE_CAP = 50
