@@ -31,13 +31,16 @@ def load_model():
     global llama_model
     try:
         print("[...] Loading Mistral model...")
+
         llama_model = Llama(
             model_path=MODEL_PATH,
             n_ctx=N_CTX,
             n_threads=N_THREADS,
             n_gpu_layers=N_GPU_LAYERS,
+            chat_format="mistral-instruct",  # ✅ REQUIRED for Mixtral instruct models
             verbose=False
         )
+
         print("[✓] Mistral model loaded successfully.")
     except Exception as e:
         print(f"[!] Could not load Mistral model: {e}")
