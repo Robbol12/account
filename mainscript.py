@@ -12,7 +12,7 @@ import time
 import sys
 import glob
 
-openai.api_key = "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"
+client = openai(api_key = "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")
 
 MODEL_PATH = "/workspace/models/Mixtral-8x7B-Instruct-v0.1.Q6_K.gguf"
 
@@ -61,7 +61,7 @@ def extract_transcript_targets(question):
         "Respond ONLY in this JSON format:\n"
         "{\"ticker\": \"VIST\", \"claim_quarter\": null, \"claim_year\": 2022, \"check_periods\": [[1,2022],[2,2022],[3,2022],[4,2022]]}"
     )
-    response = openai.chat.completions.create(
+    response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": system_prompt},
@@ -393,7 +393,7 @@ if __name__ == "__main__":
     )
     prompt_for_gpt = "\n".join(prompt_parts)
 
-    response = openai.Chat.Completions.create(
+    response = client.Chat.Completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a financial transcript analyst. Given the evidence and quarterly analysis below, provide a synthesized final answer to the user's question. First give a clear Yes/No/Uncertain verdict, then briefly explain using the supplied evidence."},
